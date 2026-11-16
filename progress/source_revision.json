@@ -1,10 +1,10 @@
 {
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
-  "updated": "2026-11-14",
-  "read_after_comment": "6885358017",
-  "dedup_key": "#111@71ad62ea+comment 6885358017, research@2ab565c3, PR150@6193e4e7/PR151@9b848ea5/PR152@c6ec5c2e",
-  "previous_dedup_key": "#111@71ad62ea+comment 6856050317, research@2ab565c3, PR147@70b14bf9/PR148@f3e0642d/PR149@45914f4c",
+  "updated": "2026-11-15",
+  "read_after_comment": "6905341174",
+  "dedup_key": "#111@71ad62ea+comment 6905341174 + research@2ab565c3 + PR145-152 heads unchanged",
+  "previous_dedup_key": "#111@71ad62ea+comment 6885358017, research@2ab565c3, PR150@6193e4e7/PR151@9b848ea5/PR152@c6ec5c2e",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "merges_are_into_research_branch_not_main": true,
@@ -22,8 +22,8 @@
     "thread_through": "T-426",
     "t426_line": 25240,
     "thread_md_sha256": "8d69b44bcf261c220d88b6ab51246b372511ae4962951d9c91035590e1dc3b67",
-    "last_comment_read": "6885358017",
-    "previous_last_comment_read": "6856050317",
+    "last_comment_read": "6905341174",
+    "previous_last_comment_read": "6885358017",
     "comments_read": [
       "6826096996",
       "6826376074",
@@ -68,7 +68,29 @@
       "6882809112",
       "6884383018",
       "6885096111",
-      "6885358017"
+      "6885358017",
+      "6888637610",
+      "6889069245",
+      "6896779866",
+      "6898019164",
+      "6898104255",
+      "6899793107",
+      "6900989510",
+      "6901487480",
+      "6901702486",
+      "6901766104",
+      "6901785925",
+      "6902537815",
+      "6903258012",
+      "6903344711",
+      "6903550505",
+      "6903707079",
+      "6903957553",
+      "6904631563",
+      "6904834002",
+      "6904839748",
+      "6904848541",
+      "6905341174"
     ],
     "comments_not_headings_in_thread_md": [
       "6826096996",
@@ -114,7 +136,29 @@
       "6882809112",
       "6884383018",
       "6885096111",
-      "6885358017"
+      "6885358017",
+      "6888637610",
+      "6889069245",
+      "6896779866",
+      "6898019164",
+      "6898104255",
+      "6899793107",
+      "6900989510",
+      "6901487480",
+      "6901702486",
+      "6901766104",
+      "6901785925",
+      "6902537815",
+      "6903258012",
+      "6903344711",
+      "6903550505",
+      "6903707079",
+      "6903957553",
+      "6904631563",
+      "6904834002",
+      "6904839748",
+      "6904848541",
+      "6905341174"
     ],
     "no_t_numbers_assigned": true,
     "roles": {
@@ -161,7 +205,29 @@
       "6882809112": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q209-scope-2026-11-14. Withdraws the stage-comparison sentence and credits Q206 to T-002.",
       "6884383018": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q214-two-premise-reduction-2026-11-14.",
       "6885096111": "proteinfolding-gpt / ChatGPT Work.",
-      "6885358017": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q215-owner-row-2026-11-14. Narrows premise (ii) to the owner-row law."
+      "6885358017": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q215-owner-row-2026-11-14. Narrows premise (ii) to the owner-row law.",
+      "6888637610": "proteinfolding-gpt / ChatGPT Work. Provenance correction: the one-effect moment route is existing October work. Not Dot and not the wiki role.",
+      "6889069245": "proteinfolding-gpt / ChatGPT Work. Work allocation: no admitted owner-action candidate in the inspected queue. Not a universal impossibility.",
+      "6896779866": "proteinfolding-gpt / ChatGPT Work. Invocation trace closed at the declared record wire. No new candidate.",
+      "6898019164": "proteinfolding-gpt, posted by ChatGPT as Aaron's requested Path-A coordination directive. The from-line does not use the ChatGPT Work signature line and does not sign Dot. Research instructions only.",
+      "6898104255": "proteinfolding-gpt / ChatGPT Work. Actual-record refinement composed with P1 ownership. Outcome NO ADMITTED CANDIDATE / RECONFIRMATION.",
+      "6899793107": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q216-q220-no-admitted-2026-11-15. Not the Engineering Lead and not the wiki role.",
+      "6900989510": "proteinfolding-gpt / ChatGPT Work. V997 witness-quorum screen. NO ADMITTED CANDIDATE.",
+      "6901487480": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q224-reply-2026-11-15. Ledger/attestation family screened inside the inspected sources.",
+      "6901702486": "proteinfolding-gpt / Dot. Q224 scope qualification. Not ChatGPT Work.",
+      "6901766104": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q225-reply-2026-11-15. Concession. Withdraws the injectivity type-opposite explanation. Q225 is NO ADMITTED CANDIDATE.",
+      "6901785925": "proteinfolding-gpt / ChatGPT Work. Premise clarification on the Q216 input tags.",
+      "6902537815": "proteinfolding-gpt / ChatGPT Work. External operational-reconstruction applicability. NO ADMITTED NATIVE CANDIDATE.",
+      "6903258012": "proteinfolding-gpt / Dot. RCR seed applicability. Not ChatGPT Work and not a correction of the Work note.",
+      "6903344711": "proteinfolding-gpt / ChatGPT Work. Q225 precision: fiber mass is obtained from retained cone totals.",
+      "6903550505": "proteinfolding-gpt / ChatGPT Work. Aaron-requested causal-efficacy exploration. RECONFIRMATION / AIM CORRECTION.",
+      "6903707079": "proteinfolding-gpt / ChatGPT Work. Cross-result trend. RECONFIRMATION / SYNTHESIS / SCOPE CORRECTION.",
+      "6903957553": "proteinfolding-gpt / ChatGPT Work. Evidence breakdown. The scoped receiver counterexample stands inside its comparison.",
+      "6904631563": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q232-orientation-reply-2026-11-15. NO ADMITTED CANDIDATE. The actuality sentence in this comment is later withdrawn.",
+      "6904834002": "proteinfolding-gpt / ChatGPT Work. Challenge to Q232. Argmax role recovery inside the two-label fixture. Unreviewed elementary derivation.",
+      "6904839748": "proteinfolding-gpt / ChatGPT Work. Rendering correction to 6904834002. No scientific change.",
+      "6904848541": "proteinfolding-gpt / Dot. Q232 scope qualification. Not ChatGPT Work.",
+      "6905341174": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q234-reply-2026-11-15. Argmax roles accepted. Actuality wording withdrawn. Complement description downgraded to a re-expression."
     }
   },
   "research_branch": {
@@ -302,32 +368,37 @@
     },
     "145": {
       "head": "fe4a49b9093cc1e24c619d84ec646d9f6d075de0",
-      "draft": false
+      "draft": false,
+      "reverified_unchanged_2026_11_15": true
     },
     "146": {
       "head": "8cb727ea0a62a9e3bc12c045ee6e05f451db9a50",
-      "draft": false
+      "draft": false,
+      "reverified_unchanged_2026_11_15": true
     },
     "147": {
       "head": "70b14bf9303a42da831a22ef22f1473f5d4a396d",
       "draft": false,
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false
+      "merged": false,
+      "reverified_unchanged_2026_11_15": true
     },
     "148": {
       "head": "f3e0642d14375a2a7e60ee42f19183ea1fa706a0",
       "draft": false,
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false
+      "merged": false,
+      "reverified_unchanged_2026_11_15": true
     },
     "149": {
       "head": "45914f4c28432332a2146ae4df3bb89cb2e57db7",
       "draft": false,
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false
+      "merged": false,
+      "reverified_unchanged_2026_11_15": true
     },
     "150": {
       "head": "6193e4e7c64fb9af0e795a397771edd7b5f05b0e",
@@ -335,7 +406,8 @@
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
-      "state": "open"
+      "state": "open",
+      "reverified_unchanged_2026_11_15": true
     },
     "151": {
       "head": "9b848ea54584198b3e90261aef4e2311653bf036",
@@ -344,7 +416,8 @@
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
-      "state": "open"
+      "state": "open",
+      "reverified_unchanged_2026_11_15": true
     },
     "152": {
       "head": "c6ec5c2e2a3539cf51786b4b353b73d3abb5a898",
@@ -352,13 +425,14 @@
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
-      "state": "open"
+      "state": "open",
+      "reverified_unchanged_2026_11_15": true
     }
   },
   "clocks_not_moved": [
     "docs/llms.txt three-clocks block still names overlapping-guard tip 1e7cd09 for the 10 Oct 2026 scoped C3/C4 closeout",
     "docs/llms/c01-clocks.txt item 6 is unchanged",
-    "docs/llms/c07-research.txt clock line still names research tip 2ab565c3 because that tip did not move; the following prose now names comments through 6885358017",
+    "docs/llms/c07-research.txt clock line still names research tip 2ab565c3 because that tip did not move; the following prose now names comments through 6905341174",
     "docs/cantos.json canto 07 clock string is unchanged because research tip 2ab565c3 did not move",
     "Wiki compile date and last X field note are unchanged",
     "overrides/main.html banner compile date stays 2026-10-10 because this run log is not a recompile of that batch",
@@ -366,8 +440,8 @@
     "claims/ledger.jsonl is not edited"
   ],
   "clocks_moved": [
-    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-14 run-log entries",
-    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/tools.json physical_bridge_not_status, and the prose under the canto 07 clock now name comments 6870436259 through 6885358017 and open PRs #150 #151 #152",
+    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-14 and 2026-11-15 run-log entries",
+    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/tools.json physical_bridge_not_status, and the prose under the canto 07 clock now name comments 6888637610 through 6905341174",
     "The canto 07 clock SHA string itself is unchanged"
   ],
   "q193_q194": {
@@ -382,7 +456,7 @@
     "ref": "uqcf-sci-q196-pr148-2026-11-13",
     "note": "Independent check of open PR #148. Counterexample and completion sustained. Local posthoc hashes are truncated in the comment and were not retrieved. Comment 6855974987 says no sixteen-unit numerical replay is asserted. Not a Gemini review."
   },
-  "comment_list_check": "PR #111 conversation comments with id greater than 6856050317 and at most 6885358017 are exactly 26 comments, 6870436259 through 6885358017, all created on 2026-11-14 UTC. No comment after 6885358017 was on the thread. PR #111 head remained 71ad62ea. The comments are not THREAD.md headings.",
+  "comment_list_check": "PR #111 issue comments returned by the API since 2026-11-15T00:00:00Z are exactly 22 comments, 6888637610 through 6905341174. A follow-up since 2026-11-16T02:08:00Z returned only 6905341174. No comment after 6905341174 was on the thread. The first two comments are dated 2026-11-14 America/Phoenix. The rest are dated 2026-11-15 America/Phoenix. PR #111 head remained 71ad62ea. The comments are not THREAD.md headings.",
   "readback_runs": {
     "43584183948": "Byte readback of PR #152 additions. Not a model review and not a scientific generator run."
   },
@@ -392,8 +466,19 @@
     "a1_existence_wording": "Comment 6881613050 says A1 should no longer be described as failing because no inherited mathematical expectation, faithful expectation, or tower-compatible family exists. Effect selection and enactment stay SUPPLIED.",
     "stage_comparison_sentence": "Comment 6882809112 withdraws the sentence 'Any read that registers the event must compare stage t with t+1.' Stage memory is not a prerequisite. A6 is stopped.",
     "q206_credit": "Q206 is scoped to linear scalar families satisfying ell_X=ell_Y P_XY and is credited to seeded T-002 A1-A3. The local novelty kept is the explicit coefficient form.",
-    "premise_ii": "Comment 6885358017 narrows premise (ii) from global R to the owner-row law. Global R remains one sufficient route. The owner-row law stays SUPPLIED."
+    "premise_ii": "Comment 6885358017 narrows premise (ii) from global R to the owner-row law. Global R remains one sufficient route. The owner-row law stays SUPPLIED.",
+    "q224_permanent_ledger": "Comment 6901702486, Dot, says Q224's requirement that an owner fact need r_* plus the identity on the whole ledger overstated a sufficient realization. Permanent ledger protection is an extra implementation condition. Comment 6901766104 accepts that narrowing.",
+    "q224_injectivity": "Comment 6901766104 withdraws the injectivity type-opposite explanation. v15.10 section IV states only the absence of a frozen pruning-to-successor identification. The bounded V995-V997 verdict is unchanged.",
+    "q225_cone_total_wording": "Comment 6903344711 says Q225's fiber expression should be described as obtained from retained cone totals, not as equal to the p-cone total in general. Comment 6904631563 concedes that wording. Q225's no-admitted-candidate conclusion is unaffected.",
+    "q232_actuality": "Comment 6905341174 withdraws the Q232 sentence that identifying the owner is necessary to make the response an actual event. The adopted wording is Dot's in 6904848541: under a strict-record encoding of both coverage steps, their view representations have opposite inclusion behavior, and their association with source and receiver remains to be derived."
   },
   "local_hashes_not_retrieved": "Q201, Q202, Q203, Q204, Q205, Q206, Q207, Q208 and Q210-Q213 are named by truncated local hashes. This wiki did not retrieve those files. Inline arguments in the comments are what is recorded. Q210-Q213 are not independently accepted beyond that inline text.",
-  "pr111_api_base_sha_note": "At this reading the PR #111 object base.sha field was def537e928c9839fe956aeddb6ad81ed5e6380ba, a 2026-10-21 commit. The live branch ref research/uqcf-overlapping-guard-exchange was 2ab565c3. Open PRs #145-#152 report base sha 2ab565c3. This checkpoint uses the branch ref."
+  "pr111_api_base_sha_note": "At this reading the PR #111 object base.sha field was def537e928c9839fe956aeddb6ad81ed5e6380ba, a 2026-10-21 commit. The live branch ref research/uqcf-overlapping-guard-exchange was 2ab565c3. Open PRs #145-#152 report base sha 2ab565c3. This checkpoint uses the branch ref.",
+  "rendering_correction": {
+    "comment": "6904839748",
+    "corrects": "6904834002",
+    "note": "GitHub stripped LaTeX backslashes. No scientific change. Premise tags, derivation, scope, challenge and status are unchanged."
+  },
+  "open_prs_145_152_heads_reverified_unchanged": true,
+  "next_question_not_a_result": "Comment 6905341174 names, and does not claim to have tested, whether P1 retention of the old center implies the cover obligation that the join of output records is the unit."
 }
