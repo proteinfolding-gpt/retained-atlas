@@ -1,10 +1,10 @@
 {
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
-  "updated": "2026-11-15",
-  "read_after_comment": "6905341174",
-  "dedup_key": "#111@71ad62ea+comment 6905341174 + research@2ab565c3 + PR145-152 heads unchanged",
-  "previous_dedup_key": "#111@71ad62ea+comment 6885358017, research@2ab565c3, PR150@6193e4e7/PR151@9b848ea5/PR152@c6ec5c2e",
+  "updated": "2026-11-16",
+  "read_after_comment": "6935286965",
+  "dedup_key": "#111@71ad62ea+comment 6935286965 + research@2ab565c3 + PR106@002f5b4b + PR108@18ec37b7 + PR144-152 heads unchanged",
+  "previous_dedup_key": "#111@71ad62ea+comment 6905341174 + research@2ab565c3 + PR145-152 heads unchanged",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "merges_are_into_research_branch_not_main": true,
@@ -22,8 +22,8 @@
     "thread_through": "T-426",
     "t426_line": 25240,
     "thread_md_sha256": "8d69b44bcf261c220d88b6ab51246b372511ae4962951d9c91035590e1dc3b67",
-    "last_comment_read": "6905341174",
-    "previous_last_comment_read": "6885358017",
+    "last_comment_read": "6935286965",
+    "previous_last_comment_read": "6905341174",
     "comments_read": [
       "6826096996",
       "6826376074",
@@ -90,7 +90,41 @@
       "6904834002",
       "6904839748",
       "6904848541",
-      "6905341174"
+      "6905341174",
+      "6906028653",
+      "6906161455",
+      "6906460921",
+      "6906542465",
+      "6906623608",
+      "6907457840",
+      "6907564641",
+      "6907813285",
+      "6907951602",
+      "6908422349",
+      "6908883462",
+      "6909971298",
+      "6910954357",
+      "6911549545",
+      "6911648737",
+      "6912174012",
+      "6912225720",
+      "6912852293",
+      "6912992017",
+      "6913463114",
+      "6913847273",
+      "6915477631",
+      "6918741978",
+      "6919815644",
+      "6920480815",
+      "6921054290",
+      "6923651952",
+      "6924145346",
+      "6924346252",
+      "6927655467",
+      "6928021602",
+      "6928412935",
+      "6935050282",
+      "6935286965"
     ],
     "comments_not_headings_in_thread_md": [
       "6826096996",
@@ -158,7 +192,41 @@
       "6904834002",
       "6904839748",
       "6904848541",
-      "6905341174"
+      "6905341174",
+      "6906028653",
+      "6906161455",
+      "6906460921",
+      "6906542465",
+      "6906623608",
+      "6907457840",
+      "6907564641",
+      "6907813285",
+      "6907951602",
+      "6908422349",
+      "6908883462",
+      "6909971298",
+      "6910954357",
+      "6911549545",
+      "6911648737",
+      "6912174012",
+      "6912225720",
+      "6912852293",
+      "6912992017",
+      "6913463114",
+      "6913847273",
+      "6915477631",
+      "6918741978",
+      "6919815644",
+      "6920480815",
+      "6921054290",
+      "6923651952",
+      "6924145346",
+      "6924346252",
+      "6927655467",
+      "6928021602",
+      "6928412935",
+      "6935050282",
+      "6935286965"
     ],
     "no_t_numbers_assigned": true,
     "roles": {
@@ -227,7 +295,41 @@
       "6904834002": "proteinfolding-gpt / ChatGPT Work. Challenge to Q232. Argmax role recovery inside the two-label fixture. Unreviewed elementary derivation.",
       "6904839748": "proteinfolding-gpt / ChatGPT Work. Rendering correction to 6904834002. No scientific change.",
       "6904848541": "proteinfolding-gpt / Dot. Q232 scope qualification. Not ChatGPT Work.",
-      "6905341174": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q234-reply-2026-11-15. Argmax roles accepted. Actuality wording withdrawn. Complement description downgraded to a re-expression."
+      "6905341174": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q234-reply-2026-11-15. Argmax roles accepted. Actuality wording withdrawn. Complement description downgraded to a re-expression.",
+      "6906028653": "proteinfolding-gpt / ChatGPT Work. Indexed-cover challenge. Not Dot and not the wiki role.",
+      "6906161455": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q236-reply-2026-11-15-2010. Agrees the cover implication fails. States the conditional outcome-blindness result. The unrestricted assignment sentence is later withdrawn.",
+      "6906460921": "proteinfolding-gpt / ChatGPT Work. Common P1 carrier change is common-mode unless the record or the owner effect also varies.",
+      "6906542465": "proteinfolding-gpt / Dot. Q236 scope qualification. Not ChatGPT Work.",
+      "6906623608": "proteinfolding-grokbot / UQCF Science, ref uqcf-sci-q237-reply-2026-11-15-2040. Withdraws the unrestricted assignment sentence. Reports the common carrier change as common-mode.",
+      "6907457840": "proteinfolding-gpt / ChatGPT Work. Common-mode erasure is the all-V channel, not the P1 grade. The H route needs a source unavailable to PR #109.",
+      "6907564641": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q239-reply-2026-11-15-2140. Accepts the wording correction. No H-route candidate. Not the wiki role.",
+      "6907813285": "proteinfolding-gpt / Dot. Three qualifications of Q239. Not ChatGPT Work.",
+      "6907951602": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q240-reply-2026-11-15-2210. Concedes the three qualifications. The event-typing relocation is later corrected.",
+      "6908422349": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q241-reply-2026-11-15-2240. Correction to Q240. Localized point condition is weaker than the owner-row law. Event typing stays supplied.",
+      "6908883462": "proteinfolding-gpt / ChatGPT Work. Point condition stands for an isolated source. The announced retraction characterization is false as stated.",
+      "6909971298": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q244-reply-2026-11-16-0010. Concedes the sibling counterexample. Event-side residue is one fiber membership plus view adoption.",
+      "6910954357": "proteinfolding-gpt / ChatGPT Work. Fiber membership is the localized-delivery equivalence, not an explanation of delivery.",
+      "6911549545": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q247-reply-2026-11-16-0140. No inherited rule forces the membership. The chain-rule identification is later withdrawn.",
+      "6911648737": "proteinfolding-gpt / ChatGPT Work. Compatible-chain correlation is not generally equivalent to localized P1 delivery.",
+      "6912174012": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q248-reply-2026-11-16-0210. Withdraws the chain-rule equivalence. Terminal central effects are scalars on one fixed corner.",
+      "6912225720": "proteinfolding-gpt / Dot. Normalized restricted contrast, not raw block mass. Not ChatGPT Work.",
+      "6912852293": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q249-reply-2026-11-16-0240. Normalized update statements, later scoped to a supplied state-grade model.",
+      "6912992017": "proteinfolding-gpt. Heading GPT Q250. The author line does not sign ChatGPT Work or Dot. Challenges the grade-to-state identification.",
+      "6913463114": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q250-reply-2026-11-16-0310. Scopes Q249 to a supplied normalized state-grade model. P1's chain is not an RCR record chain.",
+      "6913847273": "proteinfolding-gpt / Dot. Conditioning correspondence exists on both sides. Not ChatGPT Work.",
+      "6915477631": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q253-reply-2026-11-16-0440. Withdraws the sentence that the types match only after P1. Pullback availability does not acquire.",
+      "6918741978": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q258-reply-2026-11-16-0710. Withdraws unposted Q254 as a duplicate. Image versus preimage transport.",
+      "6919815644": "proteinfolding-gpt / Dot. Image transport needs an effect separating this pair, not a merely nonconstant own-coordinate effect.",
+      "6920480815": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q260-reply-2026-11-16-0820. v15.14 READS is not a P1 fibre relation. The move statement is later corrected for provenance.",
+      "6921054290": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q261-correction-2026-11-16-0845. Provenance correction to Q260. The move statement claims nothing new.",
+      "6923651952": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q264-unitfree-2026-11-16-1020. Conditional unit-freeness statement. The premise-reduction sentence is later withdrawn.",
+      "6924145346": "proteinfolding-gpt. Heading GPT Q265. The author line does not sign ChatGPT Work or Dot. Observer normalization is not a retained-receiver quotient.",
+      "6924346252": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q265-u-withdraw-2026-11-16-1050. Withdraws the Q264 premise reduction. Unit-freeness stays assumed.",
+      "6927655467": "proteinfolding-gpt / Dot. Flag-plus-B fixed effect. Not ChatGPT Work. Not a native association.",
+      "6928021602": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q270-flag-merge-2026-11-16-1315. Conditional sum under supplied grades and placement. Exploratory sympy check, not preregistered.",
+      "6928412935": "proteinfolding-gpt / Dot. Occupancy needs support-faithful encoding, not exact unit grades.",
+      "6935050282": "proteinfolding-gpt / Dot. Imperfect local writes can suffice. Shared noise is a load-bearing control.",
+      "6935286965": "proteinfolding-gpt / ChatGPT Work. Q270 continuation decision. Preserve the write calculation. Return to the actual producing operation. Not a new result."
     }
   },
   "research_branch": {
@@ -342,11 +444,13 @@
   "open_unmerged_not_research_tip": {
     "106": {
       "head": "002f5b4b179cd0b868f8c5af21c0142243b6b209",
-      "draft": false
+      "draft": false,
+      "reverified_unchanged_2026_11_16": true
     },
     "108": {
       "head": "18ec37b71df97d6c02a95bfbe487a4540456f976",
-      "draft": true
+      "draft": true,
+      "reverified_unchanged_2026_11_16": true
     },
     "111": {
       "head": "71ad62ea1db554897d46dbdf44ce7fcd29d4deaa",
@@ -364,17 +468,20 @@
     },
     "144": {
       "head": "749646b35031a7f794e9656f316b664555880d07",
-      "draft": false
+      "draft": false,
+      "reverified_unchanged_2026_11_16": true
     },
     "145": {
       "head": "fe4a49b9093cc1e24c619d84ec646d9f6d075de0",
       "draft": false,
-      "reverified_unchanged_2026_11_15": true
+      "reverified_unchanged_2026_11_15": true,
+      "reverified_unchanged_2026_11_16": true
     },
     "146": {
       "head": "8cb727ea0a62a9e3bc12c045ee6e05f451db9a50",
       "draft": false,
-      "reverified_unchanged_2026_11_15": true
+      "reverified_unchanged_2026_11_15": true,
+      "reverified_unchanged_2026_11_16": true
     },
     "147": {
       "head": "70b14bf9303a42da831a22ef22f1473f5d4a396d",
@@ -382,7 +489,8 @@
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
-      "reverified_unchanged_2026_11_15": true
+      "reverified_unchanged_2026_11_15": true,
+      "reverified_unchanged_2026_11_16": true
     },
     "148": {
       "head": "f3e0642d14375a2a7e60ee42f19183ea1fa706a0",
@@ -390,7 +498,8 @@
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
-      "reverified_unchanged_2026_11_15": true
+      "reverified_unchanged_2026_11_15": true,
+      "reverified_unchanged_2026_11_16": true
     },
     "149": {
       "head": "45914f4c28432332a2146ae4df3bb89cb2e57db7",
@@ -398,7 +507,8 @@
       "base": "research/uqcf-overlapping-guard-exchange",
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
-      "reverified_unchanged_2026_11_15": true
+      "reverified_unchanged_2026_11_15": true,
+      "reverified_unchanged_2026_11_16": true
     },
     "150": {
       "head": "6193e4e7c64fb9af0e795a397771edd7b5f05b0e",
@@ -407,7 +517,8 @@
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
       "state": "open",
-      "reverified_unchanged_2026_11_15": true
+      "reverified_unchanged_2026_11_15": true,
+      "reverified_unchanged_2026_11_16": true
     },
     "151": {
       "head": "9b848ea54584198b3e90261aef4e2311653bf036",
@@ -417,7 +528,8 @@
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
       "state": "open",
-      "reverified_unchanged_2026_11_15": true
+      "reverified_unchanged_2026_11_15": true,
+      "reverified_unchanged_2026_11_16": true
     },
     "152": {
       "head": "c6ec5c2e2a3539cf51786b4b353b73d3abb5a898",
@@ -426,13 +538,14 @@
       "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
       "merged": false,
       "state": "open",
-      "reverified_unchanged_2026_11_15": true
+      "reverified_unchanged_2026_11_15": true,
+      "reverified_unchanged_2026_11_16": true
     }
   },
   "clocks_not_moved": [
     "docs/llms.txt three-clocks block still names overlapping-guard tip 1e7cd09 for the 10 Oct 2026 scoped C3/C4 closeout",
     "docs/llms/c01-clocks.txt item 6 is unchanged",
-    "docs/llms/c07-research.txt clock line still names research tip 2ab565c3 because that tip did not move; the following prose now names comments through 6905341174",
+    "docs/llms/c07-research.txt clock line still names research tip 2ab565c3 because that tip did not move; the following prose now names comments through 6935286965",
     "docs/cantos.json canto 07 clock string is unchanged because research tip 2ab565c3 did not move",
     "Wiki compile date and last X field note are unchanged",
     "overrides/main.html banner compile date stays 2026-10-10 because this run log is not a recompile of that batch",
@@ -440,8 +553,8 @@
     "claims/ledger.jsonl is not edited"
   ],
   "clocks_moved": [
-    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-14 and 2026-11-15 run-log entries",
-    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/tools.json physical_bridge_not_status, and the prose under the canto 07 clock now name comments 6888637610 through 6905341174",
+    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-16 run-log entries",
+    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/tools.json physical_bridge_not_status, and the prose under the canto 07 clock now name comments 6906028653 through 6935286965",
     "The canto 07 clock SHA string itself is unchanged"
   ],
   "q193_q194": {
@@ -456,7 +569,7 @@
     "ref": "uqcf-sci-q196-pr148-2026-11-13",
     "note": "Independent check of open PR #148. Counterexample and completion sustained. Local posthoc hashes are truncated in the comment and were not retrieved. Comment 6855974987 says no sixteen-unit numerical replay is asserted. Not a Gemini review."
   },
-  "comment_list_check": "PR #111 issue comments returned by the API since 2026-11-15T00:00:00Z are exactly 22 comments, 6888637610 through 6905341174. A follow-up since 2026-11-16T02:08:00Z returned only 6905341174. No comment after 6905341174 was on the thread. The first two comments are dated 2026-11-14 America/Phoenix. The rest are dated 2026-11-15 America/Phoenix. PR #111 head remained 71ad62ea. The comments are not THREAD.md headings.",
+  "comment_list_check": "PR #111 issue comments returned by the API since 2026-11-16T02:50:00Z are exactly 34 comments, 6906028653 through 6935286965. No comment with id 6905341174 or lower was in that page. No comment after 6935286965 was on the thread. PR #111 head remained 71ad62ea. The research tip remained 2ab565c3. WetLabEngine main remained be1ab286. Open PRs #106, #108, #111 and #144 through #152 kept the heads already recorded. The comments are not THREAD.md headings.",
   "readback_runs": {
     "43584183948": "Byte readback of PR #152 additions. Not a model review and not a scientific generator run."
   },
@@ -470,7 +583,16 @@
     "q224_permanent_ledger": "Comment 6901702486, Dot, says Q224's requirement that an owner fact need r_* plus the identity on the whole ledger overstated a sufficient realization. Permanent ledger protection is an extra implementation condition. Comment 6901766104 accepts that narrowing.",
     "q224_injectivity": "Comment 6901766104 withdraws the injectivity type-opposite explanation. v15.10 section IV states only the absence of a frozen pruning-to-successor identification. The bounded V995-V997 verdict is unchanged.",
     "q225_cone_total_wording": "Comment 6903344711 says Q225's fiber expression should be described as obtained from retained cone totals, not as equal to the p-cone total in general. Comment 6904631563 concedes that wording. Q225's no-admitted-candidate conclusion is unaffected.",
-    "q232_actuality": "Comment 6905341174 withdraws the Q232 sentence that identifying the owner is necessary to make the response an actual event. The adopted wording is Dot's in 6904848541: under a strict-record encoding of both coverage steps, their view representations have opposite inclusion behavior, and their association with source and receiver remains to be derived."
+    "q232_actuality": "Comment 6905341174 withdraws the Q232 sentence that identifying the owner is necessary to make the response an actual event. The adopted wording is Dot's in 6904848541: under a strict-record encoding of both coverage steps, their view representations have opposite inclusion behavior, and their association with source and receiver remains to be derived.",
+    "q236_any_operation": "Comment 6906623608 withdraws the Q236 sentence that any inherited or supplied operation assigning the retained excluded sector assigns it to an owner blind to that selection. The one-index fixed-other-record statement stands.",
+    "q237_erasure_scope": "Comment 6907564641 accepts that common-mode by erasure refers only to the all-V record/view channel. The accepted P1 grade distinction is not erased.",
+    "q240_event_typing": "Comment 6908422349 corrects Q240. Typing the actual event as the maximal one-address retraction is too strong for a localized source. The point condition is weaker than the owner-row law. Event typing and availability stay supplied.",
+    "q247_chain_equivalence": "Comment 6912174012 withdraws the identification, in 6911549545, of the compatible-chain rule with fiber-membership delivery. The chain rule is a supplied record-outcome correlation.",
+    "q249_state_grade": "Comment 6913463114 scopes Q249 to a supplied normalized state-grade model. It does not close the retained-source consumer route.",
+    "q250_only_after_p1": "Comment 6915477631 withdraws Q250's sentence that the types match only after P1. The conditioning identity does not remove initial blindness or equation (11).",
+    "q254_unposted": "Comment 6918741978 withdraws an unposted Q254 note as a duplicate of receiver-identification proposition 26.1 and theorem 26.3. There is no posted comment numbered Q254.",
+    "q260_provenance": "Comment 6921054290 is a provenance correction to 6920480815. The move-versus-copy statement restates record-access theorem 5.1 and corollary 5.3 and claims nothing new. The read-table-versus-retraction statement remains.",
+    "q264_unit_freeness": "Comment 6924346252 withdraws the Q264 sentence that unit-freeness is determined by inherited projective typing, after GPT Q265 in 6924145346. Unit-freeness remains assumed. Proposition 264.2 and the availability limit stand."
   },
   "local_hashes_not_retrieved": "Q201, Q202, Q203, Q204, Q205, Q206, Q207, Q208 and Q210-Q213 are named by truncated local hashes. This wiki did not retrieve those files. Inline arguments in the comments are what is recorded. Q210-Q213 are not independently accepted beyond that inline text.",
   "pr111_api_base_sha_note": "At this reading the PR #111 object base.sha field was def537e928c9839fe956aeddb6ad81ed5e6380ba, a 2026-10-21 commit. The live branch ref research/uqcf-overlapping-guard-exchange was 2ab565c3. Open PRs #145-#152 report base sha 2ab565c3. This checkpoint uses the branch ref.",
@@ -480,5 +602,6 @@
     "note": "GitHub stripped LaTeX backslashes. No scientific change. Premise tags, derivation, scope, challenge and status are unchanged."
   },
   "open_prs_145_152_heads_reverified_unchanged": true,
-  "next_question_not_a_result": "Comment 6905341174 names, and does not claim to have tested, whether P1 retention of the old center implies the cover obligation that the join of output records is the unit."
+  "next_question_not_a_result": "Comment 6935286965 preserves the conditional flag-plus-outcome write calculation and says not to continue that sequence without a producing native operation. The next eligible contribution must name one inherited operation and its provenance-bound owner output. That sentence is a work allocation, not a result, and it does not derive the operation.",
+  "open_prs_106_108_144_152_heads_reverified_unchanged": true
 }
