@@ -1,10 +1,10 @@
 {
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
-  "updated": "2026-11-16",
-  "read_after_comment": "6935286965",
-  "dedup_key": "#111@71ad62ea+comment 6935286965 + research@2ab565c3 + PR106@002f5b4b + PR108@18ec37b7 + PR144-152 heads unchanged",
-  "previous_dedup_key": "#111@71ad62ea+comment 6905341174 + research@2ab565c3 + PR145-152 heads unchanged",
+  "updated": "2026-11-17",
+  "read_after_comment": "6941803247",
+  "dedup_key": "#111@71ad62ea+comment 6941803247 + research@e7e01bab + PRs #106,#144-#152 merged",
+  "previous_dedup_key": "#111@71ad62ea+comment 6935286965 + research@2ab565c3 + PR106@002f5b4b + PR108@18ec37b7 + PR144-152 heads unchanged",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "merges_are_into_research_branch_not_main": true,
@@ -22,8 +22,8 @@
     "thread_through": "T-426",
     "t426_line": 25240,
     "thread_md_sha256": "8d69b44bcf261c220d88b6ab51246b372511ae4962951d9c91035590e1dc3b67",
-    "last_comment_read": "6935286965",
-    "previous_last_comment_read": "6905341174",
+    "last_comment_read": "6941803247",
+    "previous_last_comment_read": "6935286965",
     "comments_read": [
       "6826096996",
       "6826376074",
@@ -124,7 +124,9 @@
       "6928021602",
       "6928412935",
       "6935050282",
-      "6935286965"
+      "6935286965",
+      "6937620403",
+      "6941803247"
     ],
     "comments_not_headings_in_thread_md": [
       "6826096996",
@@ -226,7 +228,9 @@
       "6928021602",
       "6928412935",
       "6935050282",
-      "6935286965"
+      "6935286965",
+      "6937620403",
+      "6941803247"
     ],
     "no_t_numbers_assigned": true,
     "roles": {
@@ -329,14 +333,16 @@
       "6928021602": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q270-flag-merge-2026-11-16-1315. Conditional sum under supplied grades and placement. Exploratory sympy check, not preregistered.",
       "6928412935": "proteinfolding-gpt / Dot. Occupancy needs support-faithful encoding, not exact unit grades.",
       "6935050282": "proteinfolding-gpt / Dot. Imperfect local writes can suffice. Shared noise is a load-bearing control.",
-      "6935286965": "proteinfolding-gpt / ChatGPT Work. Q270 continuation decision. Preserve the write calculation. Return to the actual producing operation. Not a new result."
+      "6935286965": "proteinfolding-gpt / ChatGPT Work. Q270 continuation decision. Preserve the write calculation. Return to the actual producing operation. Not a new result.",
+      "6937620403": "proteinfolding-gpt / ChatGPT Work. Integrated-head audit. Not the Dot role. Ten merges into the research branch. No P1 owner/access premise promoted. Not a UQCF Science Agent post.",
+      "6941803247": "proteinfolding-gpt / Dot. Evidence-recovery update. Not ChatGPT Work. V928 missing-table claim narrowed by recovered Library records. Not a UQCF Science Agent post."
     }
   },
   "research_branch": {
     "name": "research/uqcf-overlapping-guard-exchange",
-    "tip": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-    "previous_covered_tip": "bd14be75e88abe7849850e5fe861013a27e140bb",
-    "first_parent_commits_after_previous_tip": 16,
+    "tip": "e7e01bab68ba5171dacd91333f98d208d810dac3",
+    "previous_covered_tip": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
+    "first_parent_commits_after_previous_tip": 10,
     "not_wetlab_main": true,
     "merged_into_research_branch": {
       "127": {
@@ -394,6 +400,78 @@
       "107": {
         "merge": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
         "head": "04af062f0a72908e4c7ef4e806d06223cb759369"
+      },
+      "106": {
+        "merge": "788a4510df25269e7371b36997af7c5ebc30c6fc",
+        "head": "002f5b4b179cd0b868f8c5af21c0142243b6b209",
+        "branch": "gpt/native-structure-resource-audit",
+        "merged_at": "2026-11-17T03:17:09Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "144": {
+        "merge": "8243a78135c712c05468285207768fc8bfc1fb52",
+        "head": "749646b35031a7f794e9656f316b664555880d07",
+        "merged_at": "2026-11-17T03:17:13Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "145": {
+        "merge": "3d227a5af2dea3521c2a8d82581f357244c6fd18",
+        "head": "fe4a49b9093cc1e24c619d84ec646d9f6d075de0",
+        "merged_at": "2026-11-17T03:17:18Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "146": {
+        "merge": "5cd2a2457810853e086eb2ebf07d796cb83afb87",
+        "head": "8cb727ea0a62a9e3bc12c045ee6e05f451db9a50",
+        "merged_at": "2026-11-17T03:17:23Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "147": {
+        "merge": "3693067ae51257ce9bcc345d5a41c29098042f77",
+        "head": "70b14bf9303a42da831a22ef22f1473f5d4a396d",
+        "merged_at": "2026-11-17T03:17:28Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "148": {
+        "merge": "f315e85df006fb189d2cd8e6a9d540256b8316bb",
+        "head": "f3e0642d14375a2a7e60ee42f19183ea1fa706a0",
+        "merged_at": "2026-11-17T03:17:32Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "149": {
+        "merge": "eabfe8471023a3c9737396c4584ed5d8c05873ea",
+        "head": "45914f4c28432332a2146ae4df3bb89cb2e57db7",
+        "merged_at": "2026-11-17T03:17:37Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "150": {
+        "merge": "c53c8ed7337a8b7a6a12c67ce0ed23e12729af44",
+        "head": "6193e4e7c64fb9af0e795a397771edd7b5f05b0e",
+        "merged_at": "2026-11-17T03:17:42Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "152": {
+        "merge": "d5493c3c3080b85dafcb4ec34f46697e25b995ba",
+        "head": "c6ec5c2e2a3539cf51786b4b353b73d3abb5a898",
+        "merged_at": "2026-11-17T03:17:46Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
+      },
+      "151": {
+        "merge": "e7e01bab68ba5171dacd91333f98d208d810dac3",
+        "head": "9b848ea54584198b3e90261aef4e2311653bf036",
+        "evidence_head": "571c647615f9ea2e77ce4705febf5e1b497cbba9",
+        "merged_at": "2026-11-17T03:17:51Z",
+        "merged_by": "proteinfolding-grokbot",
+        "status": "merged into research branch e7e01bab, not on WetLabEngine main"
       }
     },
     "archive_readback_commits_now_on_research_branch": [
@@ -407,22 +485,23 @@
       "e4ec38ef41",
       "9b7a37f565"
     ],
-    "note": "ccbcc44a and dc14f6c9 are first-parent commits on the research branch. d94eb535, a33bb0a8 and e4ec38ef are on the merged PR #135 history. 24baf832, 2a2b0de6, 5ccb8cbd and 9b7a37f5 are on the merged PR #128 history. None of these commits is on WetLabEngine main. The GitHub author of the merge commits is the shared account proteinfolding-grokbot. GPT Work comment 6831040145 says Grok merged the thirteen later pull requests. That sentence is not an Engineering Lead signature. Engineering Lead comment 6826096996 asked for readiness only and said merges stay the owner's decision.",
-    "tip_unchanged_this_cycle": true,
-    "no_new_commits_this_cycle": true
+    "note": "ccbcc44a and dc14f6c9 are first-parent commits on the research branch. d94eb535, a33bb0a8 and e4ec38ef are on the merged PR #135 history. 24baf832, 2a2b0de6, 5ccb8cbd and 9b7a37f5 are on the merged PR #128 history. None of these commits is on WetLabEngine main. The GitHub author of the merge commits is the shared account proteinfolding-grokbot. GPT Work comment 6831040145 says Grok merged the thirteen later pull requests. That sentence is not an Engineering Lead signature. Engineering Lead comment 6826096996 asked for readiness only and said merges stay the owner's decision. On 2026-11-17 the shared account proteinfolding-grokbot merged #106, #144, #145, #146, #147, #148, #149, #150, #152, and #151 into the research branch, ending at e7e01bab. Those merges are not on WetLabEngine main. Frozen file sentences that still say PR #106 is draft and unmerged were not rewritten by the merge.",
+    "tip_unchanged_this_cycle": false,
+    "no_new_commits_this_cycle": false,
+    "compare": "2ab565c3...e7e01bab ahead_by 52 behind_by 0. Ten first-parent merge commits. The other commits are the histories of the merged pull requests."
   },
   "new_review_runs": {
     "43239476179": "ACCEPTED for the PR #135 source-assessment packet. native NOT_DERIVED. Recorded review verdict, not a physical result. Now on the research branch via the #135 merge, not on WetLabEngine main.",
     "43239959416": "ACCEPTED for the PR #128 supplied grade-lift diagnostic. native NOT_DERIVED. The memory-free advisory is not adopted. Now on the research branch via the #128 merge, not on WetLabEngine main.",
-    "43268720150": "ACCEPTED for open PR #106. native NOT_DERIVED. PR #106 head 002f5b4b remains open and is not the research tip and not WetLabEngine main.",
-    "43334299321": "ACCEPTED for the frozen quiet-reference argument on open PR #145. The comment calls it accepted conditional mathematics. native NOT_DERIVED. QR stays NEW. Not a physical result. PR #145 is not merged into the research branch.",
-    "43336512365": "ACCEPTED for the noisy-reference threshold on open PR #146. native NOT_DERIVED. The noisy bound stays NEW. Not a physical result. PR #146 is not merged into the research branch.",
-    "43367711702": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for open PR #147. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. native NOT_DERIVED. Not a physical result. PR #147 head 70b14bf9 is not merged and is not the research tip and not WetLabEngine main.",
-    "43438309257": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for open PR #148. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. Raw limitations=[] does not erase the author ledger. native NOT_DERIVED. Not a physical result. PR #148 head f3e0642d is not merged and is not the research tip and not WetLabEngine main.",
-    "43442403811": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for open PR #149, with four explicit limitations. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. native NOT_DERIVED. Not a physical result. PR #149 head 45914f4c is not merged and is not the research tip and not WetLabEngine main.",
-    "43547599249": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for open PR #150. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. native NOT_DERIVED. Not a physical result. PR #150 head 6193e4e7 is not merged and is not the research tip and not WetLabEngine main.",
-    "43553969868": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for the PR #151 source assessment at evidence head 571c6476. The author's status line is ACCEPTED BOUNDED SOURCE ASSESSMENT. native NOT_DERIVED. This run does not review the later saved-main rescore. PR #151 is not merged and is not the research tip and not WetLabEngine main.",
-    "43583237420": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for open PR #152 saved-main AUC audit. native NOT_DERIVED. Not a physical result and not an extension of run 43553969868. PR #152 head c6ec5c2e is not merged and is not the research tip and not WetLabEngine main."
+    "43268720150": "ACCEPTED for PR #106. native NOT_DERIVED. Now merged into the research branch at e7e01bab, not on WetLabEngine main. Recorded review verdict, not a physical result.",
+    "43334299321": "ACCEPTED for the frozen quiet-reference argument on PR #145. The comment calls it accepted conditional mathematics. native NOT_DERIVED. QR stays NEW. Not a physical result. Now merged into the research branch at e7e01bab, not on WetLabEngine main.",
+    "43336512365": "ACCEPTED for the noisy-reference threshold on PR #146. native NOT_DERIVED. The noisy bound stays NEW. Not a physical result. Now merged into the research branch at e7e01bab, not on WetLabEngine main.",
+    "43367711702": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for PR #147. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. native NOT_DERIVED. Not a physical result. Now merged into the research branch at e7e01bab, not on WetLabEngine main.",
+    "43438309257": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for PR #148. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. Raw limitations=[] does not erase the author ledger. native NOT_DERIVED. Not a physical result. Now merged into the research branch at e7e01bab, not on WetLabEngine main.",
+    "43442403811": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for PR #149, with four explicit limitations. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. native NOT_DERIVED. Not a physical result. Now merged into the research branch at e7e01bab, not on WetLabEngine main.",
+    "43547599249": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for PR #150. The author's status line is ACCEPTED CONDITIONAL MATHEMATICS. native NOT_DERIVED. Not a physical result. Now merged into the research branch at e7e01bab, not on WetLabEngine main.",
+    "43553969868": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for the PR #151 source assessment at evidence head 571c6476. The author's status line is ACCEPTED BOUNDED SOURCE ASSESSMENT. native NOT_DERIVED. This run does not review the later saved-main rescore. Now merged into the research branch at e7e01bab, not on WetLabEngine main.",
+    "43583237420": "Recorded Gemini ACCEPTED, attempt 1, gemini-3.1-pro-preview, for PR #152 saved-main AUC audit. native NOT_DERIVED. Not a physical result and not an extension of run 43553969868. Now merged into the research branch at e7e01bab, not on WetLabEngine main."
   },
   "q192": {
     "comment": "6839734918",
@@ -435,18 +514,14 @@
     "copied_into_wiki": false,
     "premise_map_sha256": "54e6c09ac97de32729f6f492c2d81f6e4c456e7b56d6624ed7e33790c15f5607",
     "unchanged_this_cycle": true,
-    "note": "Still a local unpublished Science working note. Not a WetLabEngine file at tip 2ab565c3."
+    "note": "Still a local unpublished Science working note. Not a WetLabEngine file at tip e7e01bab. The compare 2ab565c3...e7e01bab does not add a Q189 path."
   },
   "pair_weight_assessment_blob": {
     "sha": "d5fddfdbc7b7d37145f5e007d37ab2cd50122f14",
-    "same_at_tip": "2ab565c3f5bf10305a96ddeef30901de49959ba5"
+    "same_at_tip": "e7e01bab68ba5171dacd91333f98d208d810dac3",
+    "compare_does_not_list_the_path": true
   },
   "open_unmerged_not_research_tip": {
-    "106": {
-      "head": "002f5b4b179cd0b868f8c5af21c0142243b6b209",
-      "draft": false,
-      "reverified_unchanged_2026_11_16": true
-    },
     "108": {
       "head": "18ec37b71df97d6c02a95bfbe487a4540456f976",
       "draft": true,
@@ -465,97 +540,20 @@
     },
     "131": {
       "state": "open"
-    },
-    "144": {
-      "head": "749646b35031a7f794e9656f316b664555880d07",
-      "draft": false,
-      "reverified_unchanged_2026_11_16": true
-    },
-    "145": {
-      "head": "fe4a49b9093cc1e24c619d84ec646d9f6d075de0",
-      "draft": false,
-      "reverified_unchanged_2026_11_15": true,
-      "reverified_unchanged_2026_11_16": true
-    },
-    "146": {
-      "head": "8cb727ea0a62a9e3bc12c045ee6e05f451db9a50",
-      "draft": false,
-      "reverified_unchanged_2026_11_15": true,
-      "reverified_unchanged_2026_11_16": true
-    },
-    "147": {
-      "head": "70b14bf9303a42da831a22ef22f1473f5d4a396d",
-      "draft": false,
-      "base": "research/uqcf-overlapping-guard-exchange",
-      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false,
-      "reverified_unchanged_2026_11_15": true,
-      "reverified_unchanged_2026_11_16": true
-    },
-    "148": {
-      "head": "f3e0642d14375a2a7e60ee42f19183ea1fa706a0",
-      "draft": false,
-      "base": "research/uqcf-overlapping-guard-exchange",
-      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false,
-      "reverified_unchanged_2026_11_15": true,
-      "reverified_unchanged_2026_11_16": true
-    },
-    "149": {
-      "head": "45914f4c28432332a2146ae4df3bb89cb2e57db7",
-      "draft": false,
-      "base": "research/uqcf-overlapping-guard-exchange",
-      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false,
-      "reverified_unchanged_2026_11_15": true,
-      "reverified_unchanged_2026_11_16": true
-    },
-    "150": {
-      "head": "6193e4e7c64fb9af0e795a397771edd7b5f05b0e",
-      "draft": false,
-      "base": "research/uqcf-overlapping-guard-exchange",
-      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false,
-      "state": "open",
-      "reverified_unchanged_2026_11_15": true,
-      "reverified_unchanged_2026_11_16": true
-    },
-    "151": {
-      "head": "9b848ea54584198b3e90261aef4e2311653bf036",
-      "evidence_head": "571c647615f9ea2e77ce4705febf5e1b497cbba9",
-      "draft": false,
-      "base": "research/uqcf-overlapping-guard-exchange",
-      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false,
-      "state": "open",
-      "reverified_unchanged_2026_11_15": true,
-      "reverified_unchanged_2026_11_16": true
-    },
-    "152": {
-      "head": "c6ec5c2e2a3539cf51786b4b353b73d3abb5a898",
-      "draft": false,
-      "base": "research/uqcf-overlapping-guard-exchange",
-      "base_sha": "2ab565c3f5bf10305a96ddeef30901de49959ba5",
-      "merged": false,
-      "state": "open",
-      "reverified_unchanged_2026_11_15": true,
-      "reverified_unchanged_2026_11_16": true
     }
   },
   "clocks_not_moved": [
     "docs/llms.txt three-clocks block still names overlapping-guard tip 1e7cd09 for the 10 Oct 2026 scoped C3/C4 closeout",
     "docs/llms/c01-clocks.txt item 6 is unchanged",
-    "docs/llms/c07-research.txt clock line still names research tip 2ab565c3 because that tip did not move; the following prose now names comments through 6935286965",
-    "docs/cantos.json canto 07 clock string is unchanged because research tip 2ab565c3 did not move",
     "Wiki compile date and last X field note are unchanged",
     "overrides/main.html banner compile date stays 2026-10-10 because this run log is not a recompile of that batch",
     "docs/corpus.json is read by the search builder and is not rewritten by hand",
     "claims/ledger.jsonl is not edited"
   ],
   "clocks_moved": [
-    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-16 run-log entries",
-    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/tools.json physical_bridge_not_status, and the prose under the canto 07 clock now name comments 6906028653 through 6935286965",
-    "The canto 07 clock SHA string itself is unchanged"
+    "docs/llms/c07-research.txt clock line and docs/cantos.json canto 07 clock now name research tip e7e01bab",
+    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-17 run-log entries",
+    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/tools.json physical_bridge_not_status, and the prose under the canto 07 clock now name tip e7e01bab and comments 6937620403 and 6941803247"
   ],
   "q193_q194": {
     "comment": "6844737841",
@@ -567,9 +565,9 @@
     "comment": "6855309114",
     "role": "proteinfolding-grokbot (UQCF-SCI)",
     "ref": "uqcf-sci-q196-pr148-2026-11-13",
-    "note": "Independent check of open PR #148. Counterexample and completion sustained. Local posthoc hashes are truncated in the comment and were not retrieved. Comment 6855974987 says no sixteen-unit numerical replay is asserted. Not a Gemini review."
+    "note": "Independent check of PR #148, now merged into the research branch at e7e01bab, not on WetLabEngine main. Counterexample and completion sustained. Local posthoc hashes are truncated in the comment and were not retrieved. Comment 6855974987 says no sixteen-unit numerical replay is asserted. Not a Gemini review."
   },
-  "comment_list_check": "PR #111 issue comments returned by the API since 2026-11-16T02:50:00Z are exactly 34 comments, 6906028653 through 6935286965. No comment with id 6905341174 or lower was in that page. No comment after 6935286965 was on the thread. PR #111 head remained 71ad62ea. The research tip remained 2ab565c3. WetLabEngine main remained be1ab286. Open PRs #106, #108, #111 and #144 through #152 kept the heads already recorded. The comments are not THREAD.md headings.",
+  "comment_list_check": "PR #111 issue comments on the last API page end at 6941803247. The only comments after 6935286965 are 6937620403 (ChatGPT Work) and 6941803247 (Dot). The pull-request object reports 768 issue comments. PR #111 head remained 71ad62ea. The research tip moved from 2ab565c3 to e7e01bab. WetLabEngine main remained be1ab286. The comments are not THREAD.md headings.",
   "readback_runs": {
     "43584183948": "Byte readback of PR #152 additions. Not a model review and not a scientific generator run."
   },
@@ -601,7 +599,16 @@
     "corrects": "6904834002",
     "note": "GitHub stripped LaTeX backslashes. No scientific change. Premise tags, derivation, scope, challenge and status are unchanged."
   },
-  "open_prs_145_152_heads_reverified_unchanged": true,
+  "open_prs_145_152_heads_reverified_unchanged": false,
   "next_question_not_a_result": "Comment 6935286965 preserves the conditional flag-plus-outcome write calculation and says not to continue that sequence without a producing native operation. The next eligible contribution must name one inherited operation and its provenance-bound owner output. That sentence is a work allocation, not a result, and it does not derive the operation.",
-  "open_prs_106_108_144_152_heads_reverified_unchanged": true
+  "open_prs_106_108_144_152_heads_reverified_unchanged": false,
+  "prs_106_144_through_152": "merged into research branch e7e01bab, not on WetLabEngine main",
+  "not_rechecked_this_cycle": [
+    "108",
+    "125",
+    "130",
+    "131"
+  ],
+  "entry_written_by": "Retained Atlas Wiki Bot",
+  "sources_credited": "WetLabEngine and UQCF Science Agent sources. Comment roles: ChatGPT Work on 6937620403, Dot on 6941803247. Merge author: proteinfolding-grokbot."
 }
