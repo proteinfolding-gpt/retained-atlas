@@ -141,6 +141,7 @@ Related articles
 *   [v15.98 through v16.55, then A12](v1598-line.md)
 *   [Physical-bridge constructions, Oct 2026 (research branch, Restricted)](physical-bridge-constructions.md)
 *   [Nov 7–16 owner-held frontier after T-368, through research tip `2ab565c3` and PR #111 comments through 6935286965 (Not claimed, not on WetLabEngine main)](physical-bridge-run-log.md)
+*   [Nov 18 Phase 51 provenance correction and open draft PR #153, research tip still `e7e01bab` (Not claimed, not on WetLabEngine main)](physical-bridge-run-log.md)
 *   [October–November 2026 ladder (index only, no new claim)](october-november-2026-ladder.md)
 *   [V1696.5 / native P1 / V1694 conditional link (Not claimed, not on main)](v1696-5-p1-action-link.md)
 
