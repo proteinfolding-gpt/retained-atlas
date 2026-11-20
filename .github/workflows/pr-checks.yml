@@ -18,7 +18,11 @@ jobs:
         run: mkdocs build --strict
       - name: Internal link check (built site)
         run: python scripts/check_links.py
-      - name: Claim guard
+      - name: Claim guard and future-stamp guard
+        env:
+          # Pull-request head, not the synthetic merge commit, so a stamp later than the
+          # commit that carries it still fails when CI checks out the merge ref.
+          ATLAS_HEAD_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
         run: |
           BASE="${{ github.base_ref || 'main' }}"
           git show "origin/$BASE:claims/ledger.jsonl" > /tmp/base_ledger.jsonl 2>/dev/null || cp claims/ledger.jsonl /tmp/base_ledger.jsonl
