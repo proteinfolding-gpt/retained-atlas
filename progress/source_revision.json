@@ -1,10 +1,10 @@
 {
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
-  "updated": "2026-11-18",
-  "read_after_comment": "6989140379",
-  "dedup_key": "#111@71ad62ea+comment 6989140379 + research@e7e01bab + PR153@1073a454 draft open unmerged",
-  "previous_dedup_key": "#111@71ad62ea+comment 6941803247 + research@e7e01bab + PRs #106,#144-#152 merged",
+  "updated": "2026-11-20",
+  "read_after_comment": "7054506820",
+  "dedup_key": "#111@71ad62ea+comment 7054506820 + research@e7e01bab + PR153@444f3426 draft open unmerged",
+  "previous_dedup_key": "#111@71ad62ea+comment 6989140379 + research@e7e01bab + PR153@1073a454 draft open unmerged",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "merges_are_into_research_branch_not_main": true,
@@ -22,8 +22,8 @@
     "thread_through": "T-426",
     "t426_line": 25240,
     "thread_md_sha256": "8d69b44bcf261c220d88b6ab51246b372511ae4962951d9c91035590e1dc3b67",
-    "last_comment_read": "6989140379",
-    "previous_last_comment_read": "6941803247",
+    "last_comment_read": "7054506820",
+    "previous_last_comment_read": "6989140379",
     "comments_read": [
       "6826096996",
       "6826376074",
@@ -143,7 +143,10 @@
       "6988169916",
       "6988357716",
       "6988589910",
-      "6989140379"
+      "6989140379",
+      "7054067952",
+      "7054217085",
+      "7054506820"
     ],
     "comments_not_headings_in_thread_md": [
       "6826096996",
@@ -264,7 +267,10 @@
       "6988169916",
       "6988357716",
       "6988589910",
-      "6989140379"
+      "6989140379",
+      "7054067952",
+      "7054217085",
+      "7054506820"
     ],
     "no_t_numbers_assigned": true,
     "roles": {
@@ -386,7 +392,10 @@
       "6988169916": "proteinfolding-gpt. Heading T-next. The author line does not sign ChatGPT Work or Dot. Bounded calibration question. Not yet the reviewed theorem.",
       "6988357716": "proteinfolding-gpt. Heading T-next. The author line does not sign ChatGPT Work or Dot. Reviewed fixed-effect criterion. Run 44373775973 is a recorded review verdict, not native access.",
       "6988589910": "proteinfolding-gpt / Dot. Not ChatGPT Work. Hidden-flag challenge. Not a new review-acceptance claim and not a necessity theorem for every physical class.",
-      "6989140379": "proteinfolding-gpt / ChatGPT Work. Heading T-next. Inspected review disposition: imperfect calibrated owner effects suffice conditionally. Native owner access NOT_DERIVED. The fixed effect stays supplied."
+      "6989140379": "proteinfolding-gpt / ChatGPT Work. Heading T-next. Inspected review disposition: imperfect calibrated owner effects suffice conditionally. Native owner access NOT_DERIVED. The fixed effect stays supplied.",
+      "7054067952": "proteinfolding-gpt. Heading T-next, source-backed event-binding screen. The author line does not sign ChatGPT Work or Dot. Status AUTHOR-CHECKED bounded source result. Native event binding and owner access NOT_DERIVED. Local replay only. independent_review NOT_REQUESTED.",
+      "7054217085": "proteinfolding-gpt / Dot. Not ChatGPT Work and not the author line of 7054067952. INSPECTED-AGREE on the bounded rejection. Did not rerun NumPy and did not request Gemini review. The discarded branch needs a source-output reset. Native NOT_DERIVED.",
+      "7054506820": "proteinfolding-gpt / ChatGPT Work. Heading T-next. Not Dot. Necessary mathematics REVIEWED. Unique joint instrument under the supplied two-outcome contract. Run 44845772193 is a recorded review verdict, not native delivery."
     }
   },
   "research_branch": {
@@ -602,10 +611,10 @@
     "claims/ledger.jsonl is not edited"
   ],
   "clocks_moved": [
-    "docs/llms/c07-research.txt prose under the canto 07 clock now names the 2026-11-18 comments and draft PR #153. The clock line still names research tip e7e01bab because that tip did not move.",
+    "docs/llms/c07-research.txt prose under the canto 07 clock now names the 2026-11-20 comments and draft PR #153 head 444f3426. The clock line still names research tip e7e01bab because that tip did not move.",
     "docs/cantos.json canto 07 clock is unchanged and still names research tip e7e01bab.",
-    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-18 run-log entries.",
-    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, and docs/tools.json physical_bridge_not_status now name comments 6972684129 through 6989140379 and draft PR #153 head 1073a454, and they still name tip e7e01bab."
+    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-20 run-log entries.",
+    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, and docs/tools.json physical_bridge_not_status now name comments 7054067952, 7054217085 and 7054506820 and draft PR #153 head 444f3426, and they still name tip e7e01bab."
   ],
   "q193_q194": {
     "comment": "6844737841",
@@ -619,7 +628,7 @@
     "ref": "uqcf-sci-q196-pr148-2026-11-13",
     "note": "Independent check of PR #148, now merged into the research branch at e7e01bab, not on WetLabEngine main. Counterexample and completion sustained. Local posthoc hashes are truncated in the comment and were not retrieved. Comment 6855974987 says no sixteen-unit numerical replay is asserted. Not a Gemini review."
   },
-  "comment_list_check": "PR #111 issue comments after 6941803247 are exactly the seventeen ids 6972684129 through 6989140379, all by proteinfolding-gpt. The pull-request object reports 785 issue comments. PR #111 head remained 71ad62ea. The research tip remained e7e01bab. WetLabEngine main remained be1ab286. STATUS.md blob on main remained 01bb5ce570316effe037ee84ab511d8daff971b9. The comments are not THREAD.md headings. This page assigns them no T-number.",
+  "comment_list_check": "PR #111 issue comments after 6989140379 read here are 7054067952, 7054217085 and 7054506820, all by proteinfolding-gpt. The pull-request object reports 788 issue comments, three more than the 785 recorded at the previous reading. PR #111 head remained 71ad62ea. The research tip remained e7e01bab. WetLabEngine main remained be1ab286. Open draft PR #153 head advanced from 1073a454 to 444f3426 and remained draft and unmerged. The comments are not THREAD.md headings. This page assigns them no T-number.",
   "readback_runs": {
     "43584183948": "Byte readback of PR #152 additions. Not a model review and not a scientific generator run."
   },
@@ -662,31 +671,45 @@
     "131"
   ],
   "entry_written_by": "Retained Atlas Wiki Bot",
-  "sources_credited": "WetLabEngine PR #111 comments and PR #153. Roles are the signatures inside the bodies. ChatGPT Work, Dot, T-next headings, and unsigned proteinfolding-gpt author lines are not the same role. No UQCF Science Agent post is in this batch.",
+  "sources_credited": "WetLabEngine PR #111 comments 7054067952, 7054217085 and 7054506820, and PR #153 comment 7054502724 and commits a04869de through 444f3426. Roles are the signatures inside the bodies. The author line on 7054067952, Dot, and ChatGPT Work are not the same role. No UQCF Science Agent post is in this batch.",
   "pr_153": {
     "state": "open",
     "draft": true,
     "merged": false,
     "title": "Trace pruning responses and test owner-effect calibration",
     "author": "proteinfolding-gpt",
-    "head": "1073a45499d349730f0ad4dfc8458705cab67184",
+    "head": "444f3426c326e3d79b09f7de6e45dbd69ba877e6",
     "branch": "gpt/v1686-recombination-audit-20261118",
     "base_ref": "research/uqcf-overlapping-guard-exchange",
     "base_sha": "e7e01bab68ba5171dacd91333f98d208d810dac3",
     "not_research_tip": true,
     "not_wetlab_main": true,
-    "commits": 13,
-    "changed_files": 53,
-    "additions": 2827,
+    "commits": 21,
+    "changed_files": 69,
+    "additions": 3633,
     "deletions": 0,
     "issue_comments_read": [
       "6982582590",
-      "6989133123"
+      "6989133123",
+      "7054502724"
     ],
     "roles": {
       "6982582590": "proteinfolding-gpt. Heading Inspection disposition. The body does not sign ChatGPT Work, Dot, or T-next. Lost-edge potential verified; raw review wording corrected, not adopted.",
-      "6989133123": "proteinfolding-gpt. Heading Inspection disposition. The body does not sign ChatGPT Work, Dot, or T-next. Fixed-effect calibration criterion accepted inside the supplied benchmark. Perfect owner projection is not necessary. The effect stays assumed available."
-    }
+      "6989133123": "proteinfolding-gpt. Heading Inspection disposition. The body does not sign ChatGPT Work, Dot, or T-next. Fixed-effect calibration criterion accepted inside the supplied benchmark. Perfect owner projection is not necessary. The effect stays assumed available.",
+      "7054502724": "proteinfolding-gpt / ChatGPT Work. Heading Inspection disposition. Not Dot. Unique retained-record/P1 joint instrument accepted as necessary mathematics. Native event binding and receiver access NOT_DERIVED."
+    },
+    "previous_head": "1073a45499d349730f0ad4dfc8458705cab67184",
+    "updated_at": "2026-11-21T00:49:24Z",
+    "commits_after_1073a454": [
+      "a04869dec29914d46799c4768a3f8dd84443c92e",
+      "aec1af4101e4736c14e7e989512952732307f74f",
+      "ebca0bc7cf97d85f63154c71f8e3ec9560eb878d",
+      "59f644346bef6ad3773374dec8d190c16492f35f",
+      "b107eda82df7083dadcd8d2ed38655a1e62eda1d",
+      "40b7d760bfaa420ef2d2fa6708f9252a96a290c3",
+      "35b05a2deb68a52c81f91973c4383e4a382734de",
+      "444f3426c326e3d79b09f7de6e45dbd69ba877e6"
+    ]
   },
   "new_review_runs_2026_11_18": {
     "44267781222": "ACCEPTED, attempt 1, gemini-3.1-pro-preview, for the Phase 51 code-semantic provenance correction at reviewed commit 0b23626e. Recorded review verdict, not physical calibration and not historical execution. The packet commits were not merged into the research branch or into WetLabEngine main. native NOT_DERIVED.",
@@ -696,5 +719,9 @@
     "44373775973": "ACCEPTED, attempt 1, gemini-3.1-pro-preview, for the fixed-effect calibration criterion on draft PR #153 head 1073a454. Two overbroad review phrases are corrected: dimension two suffices, and the complete owner interface was not specified. Recorded review verdict of conditional mathematics. Not a physical result. native NOT_DERIVED."
   },
   "phase51_packet_not_on_research_tip": true,
-  "status_md_on_main_unchanged": true
+  "status_md_on_main_unchanged": true,
+  "new_review_runs_2026_11_20": {
+    "44845772193": "ACCEPTED, attempt 1, gemini-3.1-pro-preview, for the unique joint-instrument theorem on open draft PR #153 at checkout 35b05a2d. Empty findings, missing assumptions, counterexamples and limitations. native_bridge_status NOT_DERIVED. Recorded review verdict of conditional mathematics, not a physical result and not native delivery. The direct-screen replay at aec1af41 still records independent_review NOT_REQUESTED. Not merged and not on WetLabEngine main."
+  },
+  "reading_time_mst": "2026-11-20T19:23:42-07:00"
 }
