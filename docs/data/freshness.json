@@ -1,0 +1,23 @@
+{
+ "schema": "retained-atlas.freshness/v1",
+ "role": "Generated landing-page clock. Not a claim, not STATUS.md, and not the v15.03 release compile date.",
+ "scientific_breakthrough": false,
+ "pillar_3": "open",
+ "compile_date": "2026-10-10",
+ "compile_label": "v15.03 release compile date",
+ "latest_progress_entry": "2026-11-21",
+ "wiki_main_sha": "cd3955aa7c8b9b1c9317f5d8dd924c32cf08d4d9",
+ "wiki_main_short": "cd3955aa",
+ "wiki_main_commit": "2026-11-21T19:32:32-07:00",
+ "wetlab_main": "be1ab286",
+ "wetlab_main_sha": "be1ab2865e82cd16857f0a189c75f201cde45577",
+ "research_tip": "e7e01bab",
+ "research_tip_sha": "e7e01bab68ba5171dacd91333f98d208d810dac3",
+ "research_branch": "research/uqcf-overlapping-guard-exchange",
+ "research_not_on_main": true,
+ "date_modified": "2026-11-21T19:32:32-07:00",
+ "line": "Last wiki update: Newest progress entry 2026-11-21. Wiki main commit 2026-11-21 (cd3955aa, 2026-11-21T19:32:32-07:00). WetLabEngine main be1ab286. Research tip e7e01bab on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.",
+ "meta": "Last wiki update: Newest progress entry 2026-11-21. Wiki main commit 2026-11-21 (cd3955aa, 2026-11-21T19:32:32-07:00). WetLabEngine main be1ab286. Research tip e7e01bab on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.",
+ "progress_path": "/progress.jsonl",
+ "llms_path": "/llms.txt"
+}
