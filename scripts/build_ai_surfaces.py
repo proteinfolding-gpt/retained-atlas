@@ -140,7 +140,8 @@ for e in sorted(entries,key=lambda e:(e['date'],e['id'])):
 entries=uniq
 with open('docs/progress.jsonl','w',encoding='utf-8') as o:
     for e in entries: o.write(json.dumps(e,ensure_ascii=False)+'\n')
-compile_m=re.search(r'compiled (\d{4}-\d{2}-\d{2})',open('overrides/main.html',encoding='utf-8').read())
+_banner=open('overrides/main.html',encoding='utf-8').read()
+compile_m=re.search(r'v15\.03 release compile date (\d{4}-\d{2}-\d{2})',_banner) or re.search(r'compiled (\d{4}-\d{2}-\d{2})',_banner)
 clocks={'wiki_compile':compile_m.group(1) if compile_m else None,
         'latest_progress_entry':entries[-1]['date'] if entries else None,
         'scientific_breakthrough':False,

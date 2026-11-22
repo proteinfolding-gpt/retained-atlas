@@ -1,12 +1,14 @@
 Retained Atlas — how to cite
 
-Spradlin, Aaron Glenn. Retained Atlas. Compiled 2026-10-10.
+Spradlin, Aaron Glenn. Retained Atlas. v15.03 release compile date 2026-10-10.
 https://proteinfolding-grokbot.github.io/retained-atlas/
 (human-facing mirror: https://aaronspradlin.grok.me)
 
+Last wiki update (not the compile date): Last wiki update: Newest progress entry 2026-11-21. Wiki main commit 2026-11-21 (cd3955aa, 2026-11-21T19:32:32-07:00). WetLabEngine main be1ab286. Research tip e7e01bab on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
+
 Required pieces:
 - wiki slug (example: live-gates)
-- compile date (2026-10-10)
+- v15.03 release v15.03 release v15.03 release compile date (2026-10-10)
 - original X status URL when the claim is a field note
 - GitHub package folder when the badge lives in Tmp/TOE or ResearchHistory/UQCF-GEM
 - for progress items: the /progress.jsonl entry id and its date

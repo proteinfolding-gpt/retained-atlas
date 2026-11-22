@@ -32,4 +32,6 @@ L+=[f"- [{fm.get('title',p)}]({url})"+(f" [{fm['claimStatus']}]" if fm.get('clai
 open('docs/data/llms-site.txt','w').write('\n'.join(L)+'\n')
 print(len(pages),'pages,',len(claims),'ledger claims')
 
-import runpy; runpy.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),'build_ai_surfaces.py'),run_name='__main__')
+import runpy
+runpy.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),'freshness.py'),run_name='__main__')
+runpy.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),'build_ai_surfaces.py'),run_name='__main__')

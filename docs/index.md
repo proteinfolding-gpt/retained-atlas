@@ -2,10 +2,18 @@
 title: "Retained Atlas"
 route: "/"
 source: "https://aaronspradlin.grok.me"
-description: "Compiled research wiki of @aaronspradlin — start from retained information, not spacetime. Executable Python, public GitHub, explicit claim boundaries. Not a completed Theory of Everything."
+description: "Last wiki update: Newest progress entry 2026-11-21. Wiki main commit 2026-11-21 (cd3955aa, 2026-11-21T19:32:32-07:00). WetLabEngine main be1ab286. Research tip e7e01bab on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything."
+date_modified: "2026-11-21T19:32:32-07:00"
 ---
 
-@aaronspradlin · compiled 2026-10-10
+<!-- freshness:home:start -->
+@aaronspradlin · v15.03 release compile date 2026-10-10
+
+Last wiki update
+:   Last wiki update: Newest progress entry 2026-11-21. Wiki main commit 2026-11-21 (cd3955aa, 2026-11-21T19:32:32-07:00). WetLabEngine main be1ab286. Research tip e7e01bab on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
+
+Progress: [/progress.jsonl](progress.jsonl) · [/llms.txt](llms.txt)
+<!-- freshness:home:end -->
 
 # Retained Atlas
 
@@ -26,9 +34,18 @@ Last X field note
 :   [2026-09-24](https://x.com/aaronspradlin/status/2103219216099033273)Restricted24 Sep thread visualizes A=(I+X)(I+Y)Δ/8. Eigenmode pictures, not dynamics. Certificates match v15.45. Source correspondence not evaluated. Not a STATUS gate. Einstein not closed.
 
 Wiki compile
-:   2026-10-10
+:   v15.03 release compile date 2026-10-10
 
 Batch index. Behind STATUS.md if they disagree.
+
+<!-- freshness:clocks:start -->
+Last wiki update
+:   Last wiki update: Newest progress entry 2026-11-21. Wiki main commit 2026-11-21 (cd3955aa, 2026-11-21T19:32:32-07:00). WetLabEngine main be1ab286. Research tip e7e01bab on research/uqcf-overlapping-guard-exchange (research branch, not on main). Progress: /progress.jsonl. llms.txt: /llms.txt. The v15.03 release compile date 2026-10-10 is a separate historic clock. scientific_breakthrough: false. Pillar 3 open. Not a completed Theory of Everything.
+
+Progress: [/progress.jsonl](progress.jsonl) · [/llms.txt](llms.txt)
+
+Separate from the v15.03 release compile date above, the last X field note, and GitHub STATUS.md. Not a STATUS gate.
+<!-- freshness:clocks:end -->
 
 GitHub STATUS.md
 :   v15.03 retained — not erased · main note publishes v15.45 · integration branch still v16.55 · overlapping-guard tip 1e7cd09 · scoped C3 not a general no-go · not on main · not a source
@@ -276,6 +293,8 @@ Three Python labs transferred from the same recoverability stack: preserve what 
 
 Search is full-text over the same document units a later embedding index would use — wiki pages, packages, field notes, glossary terms. Claim status travels with the snippet so a not-claimed 2025 sentence cannot look current.
 
-compiled 2026-10-10 · last X 2026-09-24 · 85 wiki · 74 packages · 139 spine · 195 notebook
+<!-- freshness:footer:start -->
+v15.03 release compile date 2026-10-10 · last X 2026-09-24 · Last wiki update 2026-11-21 · 85 wiki · 74 packages · 139 spine · 195 notebook
 
-85 wiki · 74 packages · 139 spine · 195 notebook · compiled 2026-10-10
+85 wiki · 74 packages · 139 spine · 195 notebook · v15.03 release compile date 2026-10-10 · Last wiki update 2026-11-21
+<!-- freshness:footer:end -->
