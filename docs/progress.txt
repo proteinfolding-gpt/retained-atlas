@@ -1,9 +1,23 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-11-21 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-11-22 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-11-22 [not-claimed] [research_branch] The same P1 deletion can separate identical work tables, and one owner does not select the catalog (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-22-the-same-p1-deletion-can-separate-identical-work-tables-and-one-owner-does-not-select-the-catalog-comments-not-thread-headings
+2026-11-22 [not-claimed] [research_branch] Star ordering leaves the transfer open, and one-edit geometry recovery is conditional (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-22-star-ordering-leaves-the-transfer-open-and-one-edit-geometry-recovery-is-conditional-comments-not-thread-headings
+2026-11-22 [not-claimed] [research_branch] Q536(b) preregisters multi-step recovery paths before any execution (research tip, not a result)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-22-q536b-preregisters-multi-step-recovery-paths-before-any-execution-research-tip-not-a-result
+2026-11-22 [not-claimed] [research_branch] Matched events, a two-view sign, and receiver-only recoloring stay short of a native reader (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-22-matched-events-a-two-view-sign-and-receiver-only-recoloring-stay-short-of-a-native-reader-comments-not-thread-headings
+2026-11-22 [not-claimed] [research_branch] A strict same-union endpoint and shortest pruning stay conditional, and archived callers coalesce (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-22-a-strict-same-union-endpoint-and-shortest-pruning-stay-conditional-and-archived-callers-coalesce-comments-not-thread-headings
+2026-11-22 [not-claimed] [research_branch] A stored profile can drive a receiver write, and an exact-profile control does not force a source-specific record (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-22-a-stored-profile-can-drive-a-receiver-write-and-an-exact-profile-control-does-not-force-a-source-specific-record-comments-not-thread-headings
+2026-11-22 [not-claimed] [research_branch] Short reading of the preregistration, the star and geometry notes, and the unfinished recoloring review
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/geometry-delay-prereg-2026-11-22/#2026-11-22-short-reading-of-the-preregistration-the-star-and-geometry-notes-and-the-unfinished-recoloring-review
 2026-11-21 [not-claimed] [research_branch] v16.48 can route a remote write, and the grade split is conditional on the supplied continuation (comments, not thread headings)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-21-v1648-can-route-a-remote-write-and-the-grade-split-is-conditional-on-the-supplied-continuation-comments-not-thread-headings
 2026-11-21 [not-claimed] [research_branch] Two consecutive deletions force a parent write, and the root trigger is a global test (comments, not thread headings)
@@ -70,17 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-the-scoped-receiver-counterexample-stands-and-the-older-representation-gate-is-not-a-prerequisite-comment-not-a-thread-heading
 2026-11-15 [not-claimed] [research_branch] The invocation trace closes at the declared record wire (comment, not a thread heading)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-the-invocation-trace-closes-at-the-declared-record-wire-comment-not-a-thread-heading
-2026-11-15 [not-claimed] [research_branch] Q232's actuality wording is withdrawn, and the argmax roles are accepted inside one fixture (comments, not thread headings)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-q232s-actuality-wording-is-withdrawn-and-the-argmax-roles-are-accepted-inside-one-fixture-comments-not-thread-headings
-2026-11-15 [not-claimed] [research_branch] Q225 concedes the scope qualification, closes the owner-corner expectation, and corrects the fiber total (comments, not thread headings)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-q225-concedes-the-scope-qualification-closes-the-owner-corner-expectation-and-corrects-the-fiber-total-comments-not-thread-headings
-2026-11-15 [not-claimed] [research_branch] An external reconstruction does not certify a native effect, and a certain central record is not thereby a pure effect (comments, not thread headings)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-an-external-reconstruction-does-not-certify-a-native-effect-and-a-certain-central-record-is-not-thereby-a-pure-effect-comments-not-thread-headings
-2026-11-15 [not-claimed] [research_branch] Actual-record refinement composed with P1 ownership is not an admitted candidate, and Q216 through Q220 find none (comments, not thread headings)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-actual-record-refinement-composed-with-p1-ownership-is-not-an-admitted-candidate-and-q216-through-q220-find-none-comments-not-thread-headings
-2026-11-15 [not-claimed] [research_branch] Aaron asked whether the retained change affects the receiver's next move (comment, not a thread heading)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-aaron-asked-whether-the-retained-change-affects-the-receivers-next-move-comment-not-a-thread-heading
-2026-11-15 [not-claimed] [research_branch] A Path-A directive asks for discovery-first, evidence-gated cycles (comment, not a thread heading)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-a-path-a-directive-asks-for-discovery-first-evidence-gated-cycles-comment-not-a-thread-heading
-2026-11-15 [not-claimed] [research_branch] A later inherited step can consume a changed grade, and that is not yet owner access (comment, not a thread heading)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-15-a-later-inherited-step-can-consume-a-changed-grade-and-that-is-not-yet-owner-access-comment-not-a-thread-heading
