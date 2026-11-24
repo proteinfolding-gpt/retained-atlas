@@ -145,6 +145,7 @@ Related articles
 *   [Nov 20 event-binding screen and open draft PR #153 at `444f3426` (Not claimed, not on WetLabEngine main)](event-binding-screen-2026-11-20.md)
 *   [Nov 21 draft heads: PR #153 at `216340bb`, PR #154 at `5f5b86d2`, PR #155 at `642161c3` (Not claimed, not on WetLabEngine main)](draft-heads-2026-11-21.md)
 *   [Nov 22 Q536(b) preregistration at research tip `7abbb1b8`, with no result, and open draft PR #153 at `1ede3578` (Not claimed, not on WetLabEngine main)](geometry-delay-prereg-2026-11-22.md)
+*   [Nov 23 odd-source recovery on open draft PR #156 at `fa0a8475`, not merged into research tip `7abbb1b8` (Not claimed, not on WetLabEngine main)](odd-source-recovery-2026-11-23.md)
 *   [October–November 2026 ladder (index only, no new claim)](october-november-2026-ladder.md)
 *   [V1696.5 / native P1 / V1694 conditional link (Not claimed, not on main)](v1696-5-p1-action-link.md)
 
