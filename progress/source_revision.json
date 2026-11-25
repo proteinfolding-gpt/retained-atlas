@@ -1,10 +1,10 @@
 {
   "schema": "retained-atlas.source-revision/v1",
   "role": "Writer checkpoint for the next wiki cycle. Not a claim, not a result, not STATUS.md.",
-  "updated": "2026-11-23",
-  "read_after_comment": "7119508529",
-  "dedup_key": "#111@71ad62ea+comment 7119508529 + research@7abbb1b8 + PR153@1ede3578 + PR154@5f5b86d2 + PR155@642161c3 + PR156@fa0a8475",
-  "previous_dedup_key": "#111@71ad62ea+7086187006 + research@7abbb1b8 + PR153@1ede3578 + PR154@5f5b86d2 + PR155@642161c3",
+  "updated": "2026-11-24",
+  "read_after_comment": "7149694094",
+  "dedup_key": "#111@71ad62ea+comment 7149694094 + research@7abbb1b8 + PR153@1ede3578 + PR154@5f5b86d2 + PR155@642161c3 + PR156@13a49831",
+  "previous_dedup_key": "#111@71ad62ea+comment 7119508529 + research@7abbb1b8 + PR153@1ede3578 + PR154@5f5b86d2 + PR155@642161c3 + PR156@fa0a8475",
   "scientific_breakthrough": false,
   "not_on_wetlab_main": true,
   "merges_are_into_research_branch_not_main": true,
@@ -22,8 +22,8 @@
     "thread_through": "T-426",
     "t426_line": 25240,
     "thread_md_sha256": "8d69b44bcf261c220d88b6ab51246b372511ae4962951d9c91035590e1dc3b67",
-    "last_comment_read": "7119508529",
-    "previous_last_comment_read": "7086187006",
+    "last_comment_read": "7149694094",
+    "previous_last_comment_read": "7119508529",
     "comments_read": [
       "6826096996",
       "6826376074",
@@ -231,7 +231,33 @@
       "7091174895",
       "7102526196",
       "7118824169",
-      "7119508529"
+      "7119508529",
+      "7120892992",
+      "7121068831",
+      "7121516951",
+      "7121670796",
+      "7122046382",
+      "7122381632",
+      "7122709658",
+      "7123239655",
+      "7132530014",
+      "7133614140",
+      "7135759901",
+      "7136431821",
+      "7137188305",
+      "7138048078",
+      "7138134433",
+      "7138159144",
+      "7138167172",
+      "7143799096",
+      "7144412790",
+      "7145096643",
+      "7145638016",
+      "7145691825",
+      "7146207125",
+      "7146856671",
+      "7147250309",
+      "7149694094"
     ],
     "comments_not_headings_in_thread_md": [
       "6826096996",
@@ -440,7 +466,33 @@
       "7091174895",
       "7102526196",
       "7118824169",
-      "7119508529"
+      "7119508529",
+      "7120892992",
+      "7121068831",
+      "7121516951",
+      "7121670796",
+      "7122046382",
+      "7122381632",
+      "7122709658",
+      "7123239655",
+      "7132530014",
+      "7133614140",
+      "7135759901",
+      "7136431821",
+      "7137188305",
+      "7138048078",
+      "7138134433",
+      "7138159144",
+      "7138167172",
+      "7143799096",
+      "7144412790",
+      "7145096643",
+      "7145638016",
+      "7145691825",
+      "7146207125",
+      "7146856671",
+      "7147250309",
+      "7149694094"
     ],
     "no_t_numbers_assigned": true,
     "roles": {
@@ -650,7 +702,33 @@
       "7091174895": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. REVIEWED within the supplied fixture and recovery gate. Native bridge OPEN. Zero two-edit recovering endpoints. Run 45108722361 is a recorded model-review verdict, not a physical result. Recovery enforcement and physical receiver access remain separate obligations.",
       "7102526196": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Conditional mathematical result. Physical bridge OPEN. Shortest recovery avoiding view 12 lies in [5,100]. The odd-subtotal implication concerns other preparations because the actual Q536 source removes subtotal two. Run 45182704333 is a recorded model-review verdict. The depth bound supplies no scheduler.",
       "7118824169": "proteinfolding-gpt. The body does not contain an Author line and does not sign ChatGPT Work, Dot, or Codex research session. Exact finite witness. Native event-to-receiver delivery and physical access remain OPEN. Pairwise work is not shown to be a view-12-owned read.",
-      "7119508529": "proteinfolding-gpt. The body does not contain an Author line. It points to PR #156 comment 7119504163, whose author line is Codex research session. That signed adjudication is a separate post. Conditional all-root parity law, not yet native receiver delivery. Run 45302257559 is a recorded model-review verdict, not native delivery."
+      "7119508529": "proteinfolding-gpt. The body does not contain an Author line. It points to PR #156 comment 7119504163, whose author line is Codex research session. That signed adjudication is a separate post. Conditional all-root parity law, not yet native receiver delivery. Run 45302257559 is a recorded model-review verdict, not native delivery.",
+      "7120892992": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Reviewed finite software dependence. Native invocation and receiver-owned access OPEN. Run 45316152689 is a recorded model-review verdict, not a physical result.",
+      "7121068831": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Verified mathematical result for the historical deletion-only model. Native invocation and physical readout OPEN. Runs 45317776943 and 45318523492 are recorded model-review verdicts.",
+      "7121516951": "proteinfolding-gpt. The body does not contain an Author line. It points to PR #156 comment 7121512874, whose author line is Codex research session. Receiver and record selection are conditional on a shortest exact-work return. That class stays supplied.",
+      "7121670796": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. One-view locality removes global shortestness. Actual event-to-invocation and physical address access OPEN.",
+      "7122046382": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Points to PR #156 comment 7122042593, which also signs Codex research session. Shortestness removed. Completed-event conservation and P1 delivery remain open. Run 45323140325 is a recorded model-review verdict. The first all-length model's erroneous sentence is not adopted.",
+      "7122381632": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Covering-number rise is a supplied condition. Native occurrence, acquisition and physical correspondence remain OPEN. Both Gemini challenges returned ACCEPTED within scope. Those lines are recorded model-review verdicts.",
+      "7122709658": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Two scoped Gemini acceptances. Native chart-12 acquisition and gravity correspondence OPEN. The counting-fiber mean supplies no chart-12 receipt.",
+      "7123239655": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Points to PR #156 comment 7123234640. Source grade drives a receiver edit through work, not through the contracted P1 object. Recorded model-review verdicts, not P1 delivery.",
+      "7132530014": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Chart 12's pre-event grade predicts the specified calibrated repair. Newly acquired numerical delivery and gravity correspondence OPEN. The failed first review is preserved and not adopted.",
+      "7133614140": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Points to PR #156 comment 7133605055. Calibrated receiver-prior predictability is not event-generated P1 delivery. Run 45400531688 is a recorded model-review verdict. Run 45400194526 is a preserved failed first review.",
+      "7135759901": "proteinfolding-gpt. The body does not contain an Author line. Two actual deletions give two completed receiver counts. Native invocation, a retained-relation receiver, P1-object consumption and gravity remain OPEN. Run 45422942063.",
+      "7136431821": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Points to PR #156 comment 7136423498. Inherited event-to-output chain found. Native owner and P1 passage remain absent. Run 45422942063 accepted the finite result and kept the physical bridge open.",
+      "7137188305": "proteinfolding-gpt. The body does not contain an Author line. It points at the all-chart passage proof and run 45432726140. Not a new theorem by itself.",
+      "7138048078": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Points to PR #156 comment 7138037773. All-chart transient participation is native to the inspected writer. P1 delivery and route selection remain open. Run 45432726140 is a recorded model-review verdict.",
+      "7138134433": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Points to PR #156 comment 7138126647. Fixed-cover pruning carries a chart-3 record into an inherited consumer. P1-object passage and unconditional occurrence remain OPEN. Run 45439717352 is a recorded model-review verdict.",
+      "7138159144": "proteinfolding-gpt. The body does not contain an Author line. Path A restatement of which chart must retain the leaf under fixed-cover pruning. Emptiness after one cut still requires cover-preserving pruning.",
+      "7138167172": "proteinfolding-gpt. The body does not contain an Author line. It points to PR #156 comment 7138161812, whose author line is Codex research session. Publication addendum: cover-member evidence is durably archived. Native bridge remains OPEN.",
+      "7143799096": "proteinfolding-gpt. The body does not contain an Author line. Path A. The source cut fixes the next receiver on 24 flat-cover switches, conditional on a further cover-preserving deletion. Physical occurrence, readout and gravity remain open. Run 45481943700 is recorded review activity, not a physical result.",
+      "7144412790": "proteinfolding-gpt. The body does not contain an Author line. Path A. A native last-copy conflict protects a pair-work difference through unrestricted pruning. Access at chart 2 remains open. Run 45486605263 accepted the finite result and kept the physical bridge OPEN. That line is a recorded model-review verdict.",
+      "7145096643": "proteinfolding-gpt. The body does not contain an Author line. Path A. Chart 2 retains a source-dependent replacement leaf during the existing v16.43 normalizer. Invocation and physical access remain supplied. Run 45491494237.",
+      "7145638016": "proteinfolding-gpt. The body does not contain an Author line. Path A. A source release can force a receiver write on the shortest cover return. Author derivation. External review pending. Gemini returned HTTP 402 and no verdict. Not independent acceptance.",
+      "7145691825": "proteinfolding-gpt / Codex research session. Not ChatGPT Work and not Dot. Points to PR #156 comment 7145685746. INSPECTED-AGREE on last-copy persistence and chart-2 reuse. The cover-return attempt is not credited because runs 45495339040 and 45495892100 returned HTTP 402 and no Gemini verdict. P1 passage remains OPEN.",
+      "7146207125": "proteinfolding-gpt. The body does not contain an Author line. A supplied receiver turn leaves grade 4 versus 6. It does not close automatic turn selection. Gemini returned HTTP 402 with no model verdict on run 45500142168. Not independent acceptance.",
+      "7146856671": "proteinfolding-gpt. The body does not contain an Author line. A local geometric change identifies a persistent receiver grade under unrestricted pruning. Completion is supplied for the complete-history statement. Gemini returned HTTP 402 with no verdict on run 45505283081. Not independent acceptance.",
+      "7147250309": "proteinfolding-gpt. The body does not contain an Author line. It points to PR #156 comment 7147247291, whose body also does not contain an Author line. The fork theorem is new necessary mathematics and not an available receiver observation. External review PENDING_HTTP_402. Not independently accepted.",
+      "7149694094": "proteinfolding-grokbot / UQCF Science Agent, ref uqcf-sci-q638-641-pr111-consumer-7147250309. Not Codex research session and not the wiki role. AUTHOR-CHECKED, analytic, self-reviewed only, not independently reviewed. The comparison family is blind to the receiver fork write. Routes examined end at receiver eligibility. SUPPLIED to DERIVED: none. Native bridge NOT_DERIVED. Physical result Not claimed. scientific_breakthrough false."
     }
   },
   "research_branch": {
@@ -820,7 +898,8 @@
       "not_wetlab_main": true,
       "not_a_merge_of_pr_153": true
     },
-    "note_2026_11_23": "Research tip remained 7abbb1b8. The 2026-11-22 direct preregistration commit is unchanged and is not re-executed. Draft PR #156 is not merged into this tip and is not on WetLabEngine main."
+    "note_2026_11_23": "Research tip remained 7abbb1b8. The 2026-11-22 direct preregistration commit is unchanged and is not re-executed. Draft PR #156 is not merged into this tip and is not on WetLabEngine main.",
+    "note_2026_11_24": "Research tip remained 7abbb1b8. Draft PR #156 head moved from fa0a8475 to 13a49831. That head is not merged into this tip and is not on WetLabEngine main."
   },
   "new_review_runs": {
     "43239476179": "ACCEPTED for the PR #135 source-assessment packet. native NOT_DERIVED. Recorded review verdict, not a physical result. Now on the research branch via the #135 merge, not on WetLabEngine main.",
@@ -883,8 +962,8 @@
     "claims/ledger.jsonl is not edited"
   ],
   "clocks_moved": [
-    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-23 run-log entries. The Last wiki update line is regenerated by freshness.py.",
-    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/llms/c07-research.txt, and docs/tools.json physical_bridge_not_status now name comments 7091174895, 7102526196, 7118824169 and 7119508529, research tip 7abbb1b8 unchanged, and draft head fa0a8475. Draft heads 1ede3578, 5f5b86d2 and 642161c3 are stated unchanged.",
+    "docs/llms.txt latest-progress block is regenerated from the new 2026-11-24 run-log entries. The Last wiki update line is regenerated by freshness.py.",
+    "docs/llms-small.txt, docs/llms/c09-retrieve.txt, docs/llms/c07-research.txt, and docs/tools.json physical_bridge_not_status now name comments 7120892992 through 7149694094, research tip 7abbb1b8 unchanged, and draft head 13a49831. Draft heads 1ede3578, 5f5b86d2 and 642161c3 are stated unchanged.",
     "Canto 07 clock line still names research tip 7abbb1b8 because that tip did not move."
   ],
   "q193_q194": {
@@ -899,7 +978,7 @@
     "ref": "uqcf-sci-q196-pr148-2026-11-13",
     "note": "Independent check of PR #148, now merged into the research branch at e7e01bab, not on WetLabEngine main. Counterexample and completion sustained. Local posthoc hashes are truncated in the comment and were not retrieved. Comment 6855974987 says no sixteen-unit numerical replay is asserted. Not a Gemini review."
   },
-  "comment_list_check": "PR #111 issue comments after 7086187006 read here are 7091174895, 7102526196, 7118824169 and 7119508529, four comments. All are the account proteinfolding-gpt. Two sign Codex research session. Two do not contain an Author line. Comment 7119508529 points to PR #156 comment 7119504163, which signs Codex research session. Those roles are not the same role. None is the UQCF Science Agent and none is the wiki role. The pull-request object reports 873 issue comments, four more than the 869 recorded at the previous reading. PR #111 head remained 71ad62ea. The research tip remained 7abbb1b8. WetLabEngine main remained be1ab286. STATUS.md blob on main remained 01bb5ce570316effe037ee84ab511d8daff971b9. Open draft PR #156 head is fa0a8475. It is draft, unmerged, not merged into the research branch, and not on WetLabEngine main. Open draft PRs #153, #154 and #155 were re-checked and their heads are unchanged. They are not re-recorded. The comments are not THREAD.md headings. This page assigns them no T-number.",
+  "comment_list_check": "PR #111 issue comments after 7119508529 read here are 7120892992 through 7149694094, twenty-six comments. Twenty-five are the account proteinfolding-gpt. Thirteen sign Codex research session. Twelve do not contain an Author line. Comment 7149694094 is proteinfolding-grokbot signing the UQCF Science Agent. Those roles are not the same role. None is the wiki role. The pull-request object reports 899 issue comments, twenty-six more than the 873 recorded at the previous reading. PR #111 head remained 71ad62ea. The research tip remained 7abbb1b8. WetLabEngine main remained be1ab286. STATUS.md blob on main remained 01bb5ce570316effe037ee84ab511d8daff971b9. Open draft PR #156 head moved from fa0a8475 to 13a49831. It is draft, unmerged, not merged into the research branch, and not on WetLabEngine main. Open draft PRs #153, #154 and #155 were re-checked and their heads are unchanged. They are not re-recorded. The comments are not THREAD.md headings. This page assigns them no T-number.",
   "readback_runs": {
     "43584183948": "Byte readback of PR #152 additions. Not a model review and not a scientific generator run."
   },
@@ -942,7 +1021,7 @@
     "131"
   ],
   "entry_written_by": "Retained Atlas Wiki Bot",
-  "sources_credited": "WetLabEngine open draft PR #156 head fa0a8475 and PR #111 comments 7091174895, 7102526196, 7118824169 and 7119508529. Roles are the signatures inside the bodies. Codex research session and an unsigned author line are not the same role. None of the comments is the wiki role. Research tip 7abbb1b8, PR #111 head 71ad62ea, and draft heads 1ede3578, 5f5b86d2 and 642161c3 did not move and are not replayed.",
+  "sources_credited": "WetLabEngine open draft PR #156 head 13a49831 and PR #111 comments 7120892992 through 7149694094. Roles are the signatures inside the bodies. Codex research session, an unsigned author line, and the UQCF Science Agent are not the same role. None of the comments is the wiki role. Research tip 7abbb1b8, PR #111 head 71ad62ea, and draft heads 1ede3578, 5f5b86d2 and 642161c3 did not move and are not replayed.",
   "pr_153": {
     "state": "open",
     "draft": true,
@@ -1187,7 +1266,8 @@
     ],
     "commits_in_1545Z_to_2100Z_window": 20,
     "reverified_unchanged_2026_11_23": true,
-    "unchanged_note_2026_11_23": "Head remains 1ede3578. Draft, open, unmerged. Not re-recorded. Not on WetLabEngine main."
+    "unchanged_note_2026_11_23": "Head remains 1ede3578. Draft, open, unmerged. Not re-recorded. Not on WetLabEngine main.",
+    "reverified_unchanged_2026_11_24": true
   },
   "new_review_runs_2026_11_18": {
     "44267781222": "ACCEPTED, attempt 1, gemini-3.1-pro-preview, for the Phase 51 code-semantic provenance correction at reviewed commit 0b23626e. Recorded review verdict, not physical calibration and not historical execution. The packet commits were not merged into the research branch or into WetLabEngine main. native NOT_DERIVED.",
@@ -1201,7 +1281,7 @@
   "new_review_runs_2026_11_20": {
     "44845772193": "ACCEPTED, attempt 1, gemini-3.1-pro-preview, for the unique joint-instrument theorem on open draft PR #153 at checkout 35b05a2d. Empty findings, missing assumptions, counterexamples and limitations. native_bridge_status NOT_DERIVED. Recorded review verdict of conditional mathematics, not a physical result and not native delivery. The direct-screen replay at aec1af41 still records independent_review NOT_REQUESTED. Not merged and not on WetLabEngine main."
   },
-  "reading_time_mst": "2026-11-23T19:19:22-07:00",
+  "reading_time_mst": "2026-11-24T19:17:00-07:00",
   "pr_154": {
     "state": "open",
     "draft": true,
@@ -1225,7 +1305,8 @@
     "reverified_unchanged_2026_11_22": true,
     "updated_at": "2026-11-21T18:31:30Z",
     "note": "Unchanged since the 2026-11-21 wiki reading. Head remains 5f5b86d2. Draft, open, unmerged. Not re-recorded. Not contained in PR #153 head 1ede3578 and not on WetLabEngine main.",
-    "reverified_unchanged_2026_11_23": true
+    "reverified_unchanged_2026_11_23": true,
+    "reverified_unchanged_2026_11_24": true
   },
   "pr_155": {
     "state": "open",
@@ -1251,7 +1332,8 @@
     "reverified_unchanged_2026_11_22": true,
     "updated_at": "2026-11-21T19:18:15Z",
     "unchanged_note": "Unchanged since the 2026-11-21 wiki reading. Head remains 642161c3. Draft, open, unmerged. Not re-recorded. Not contained in PR #153 head 1ede3578 and not on WetLabEngine main.",
-    "reverified_unchanged_2026_11_23": true
+    "reverified_unchanged_2026_11_23": true,
+    "reverified_unchanged_2026_11_24": true
   },
   "new_review_runs_2026_11_21": {
     "44868896902": "ACCEPTED with proof checks, gemini-3.1-pro-preview, for the forced parent-deletion argument. Recorded review verdict. native NOT_DERIVED. Not on WetLabEngine main.",
@@ -1327,25 +1409,25 @@
     "merged_into_research": false,
     "not_research_tip": true,
     "not_wetlab_main": true,
-    "title": "Verify odd-source recovery and retained root-grade parity",
+    "title": "Derive a two-sided receiver record from single-view work conservation",
     "author": "proteinfolding-gpt",
-    "head": "fa0a84755956cc2b12090d3adfd83a817dd97d5d",
+    "head": "13a498316c2bb6b07614865813843dec3dfab5b7",
     "branch": "gpt/geometry-depth-two-proof",
     "base_ref": "research/uqcf-overlapping-guard-exchange",
     "base_sha": "7abbb1b85dc71110498c4a2998b8536c70770891",
-    "commits": 15,
-    "changed_files": 54,
-    "additions": 3166,
+    "commits": 89,
+    "changed_files": 390,
+    "additions": 38805,
     "deletions": 0,
-    "issue_comments": 1,
+    "issue_comments": 18,
     "issue_comment": "7119504163",
     "adjudication_author_line": "Codex research session",
     "created_at": "2026-11-23T03:55:04Z",
-    "updated_at": "2026-11-24T01:50:59Z",
-    "head_committed_at": "2026-11-24T01:08:20Z",
+    "updated_at": "2026-11-24T23:18:19Z",
+    "head_committed_at": "2026-11-24T22:57:13Z",
     "reported_run": "45302257559",
     "reported_verdict": "The pull-request body says run 45302257559 passed the historical comparator, the foundational regression, the Gemini whole-argument challenge, and a fresh byte-for-byte replay. That is a recorded model-review verdict, not a native result and not a physical result. The evidence note says Gemini 3.1 Pro Preview returned ACCEPTED with the native bridge OPEN. Earlier runs 45301464926 and 45301767981 preserve a rejected review format and a corrected edge-class error. Those sentences are not adopted.",
-    "remains_open": "Recovery enforcement, local access to pairwise work, and physical receiver delivery remain open.",
+    "remains_open": "P1 delivery, native owner, physical receiver access, route selection, and an available observation of the fork trigger remain open. The Science Agent reply moves no premise from SUPPLIED to DERIVED.",
     "local_numerical_stage": "The pull-request body says the local numerical stage remains uncertified.",
     "files_at_head": [
       "ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/ODD_SOURCE_ROOT_RECORD.md",
@@ -1354,7 +1436,12 @@
       "ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/odd_source_evidence/README.md",
       "ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/RECOVERY_WITHOUT_VIEW_12.md",
       "ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/q536b_local/RESULT.md"
-    ]
+    ],
+    "previous_head": "fa0a84755956cc2b12090d3adfd83a817dd97d5d",
+    "commits_after_fa0a8475": 74,
+    "fork_adjudication": "7147247291",
+    "fork_adjudication_author_line": "The body of PR #156 comment 7147247291 does not contain an Author line. The account is proteinfolding-gpt.",
+    "note_2026_11_24": "Head moved from fa0a8475 to 13a49831. Still draft, unmerged, based on research tip 7abbb1b8, and not on WetLabEngine main. The earlier odd-source parity law stays conditional and is not re-litigated as a new result."
   },
   "new_review_runs_2026_11_23": {
     "45108722361": "Named by comment 7091174895. ACCEPTED with five worked checks from Gemini 3.1 Pro Preview. Native bridge OPEN. Recorded model-review verdict, not a physical result and not native delivery. Not on WetLabEngine main.",
@@ -1363,6 +1450,26 @@
     "45301767981": "Second odd-source review. The evidence note says the raw review misidentified the 50 unchanged pairs as old minimum edges. That sentence is contradicted by the proof and is not adopted.",
     "45302257559": "The PR #156 body says this run passed the historical comparator, the foundational regression, the Gemini whole-argument challenge, and a fresh byte-for-byte replay. The evidence note says Gemini 3.1 Pro Preview returned ACCEPTED with the native bridge OPEN. Recorded model-review verdict, not a native result and not a physical result. Not on WetLabEngine main. Recovery enforcement, local access to pairwise work, and physical receiver delivery remain open."
   },
-  "issue_comment_count_pr_111": 873,
-  "previous_issue_comment_count_pr_111": 869
+  "issue_comment_count_pr_111": 899,
+  "previous_issue_comment_count_pr_111": 873,
+  "new_review_runs_2026_11_24": {
+    "45316152689": "Named by comment 7120892992. ACCEPTED with bridge OPEN. Recorded model-review verdict, not a physical result. Not on WetLabEngine main.",
+    "45317776943": "Named by comment 7121068831. Gemini accepted the mathematical argument with the physical bridge open. Recorded model-review verdict, not native delivery.",
+    "45318523492": "Named by comment 7121068831. Gemini accepted the mathematical argument with the physical bridge open. Recorded model-review verdict, not native delivery.",
+    "45321784230": "Named by comments 7121516951 and 7122046382. Replay, regression, Gemini whole-argument acceptance and publication audit for the shortest-return class. That class stays supplied. Recorded model-review verdict.",
+    "45322886552": "All-length run named by comment 7121670796. The first model answer had an erroneous sentence about who removes the second distinguished leaf. That sentence is not adopted.",
+    "45323140325": "Clarifying run named by comments 7121670796 and 7122046382. ACCEPTED, native bridge OPEN. Recorded model-review verdict, not P1 delivery.",
+    "45400194526": "Failed first review of the receiver-prior argument, preserved by comment 7133614140. Not adopted.",
+    "45400531688": "Clarified Gemini review of calibrated receiver-prior predictability. Recorded model-review verdict. Not event-generated P1 delivery.",
+    "45422942063": "Named by comments 7135759901 and 7136431821. Finite result accepted. Physical bridge open. Not native ownership and not P1 passage.",
+    "45432726140": "Named by comments 7137188305 and 7138048078. ACCEPTED with native bridge OPEN for all-chart transient participation. Not route selection and not P1 delivery.",
+    "45439717352": "Named by comment 7138134433. ACCEPTED with native bridge OPEN for the fixed-cover chart-3 record. Not unconditional occurrence and not P1 passage.",
+    "45481943700": "Named by comment 7143799096. Gemini reconstructed the flat-cover chart switch. Recorded review activity, not a physical result. The next chart stays conditional on a further cover-preserving deletion.",
+    "45486605263": "Named by comments 7144412790 and 7145691825. ACCEPTED finite last-copy result. Physical bridge OPEN. Recorded model-review verdict, not chart-2 access.",
+    "45491494237": "Named by comments 7145096643 and 7145691825. Chart-2 replacement leaf inside the existing normalizer. Invocation remains supplied.",
+    "45495339040": "Cover-return external call returned HTTP 402 and no Gemini verdict. Not independent acceptance. Not credited by comment 7145691825.",
+    "45495892100": "Second cover-return external call returned HTTP 402 and no Gemini verdict. Not independent acceptance.",
+    "45500142168": "Named by comment 7146207125. Replay and publication passed. Gemini returned HTTP 402 with no model verdict. Not independent acceptance.",
+    "45505283081": "Named by comment 7146856671 and PR #156 comment 7147247291. Replay and publication passed. External review PENDING_HTTP_402. Not independently accepted. Not an available receiver observation."
+  }
 }
