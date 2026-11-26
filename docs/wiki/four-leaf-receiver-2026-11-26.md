@@ -152,6 +152,14 @@ The distinction is temporary. Both runs finish in the same addressed state. When
 
 [Proof, original-engine replay and independent minimum check](https://github.com/proteinfoldingengine/WetLabEngine/blob/59944c623217b7bc4b78573b9b16e3723a10ea25/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/equal_population_receiver_writes/RESULT.md) · [Research review](https://github.com/proteinfoldingengine/WetLabEngine/pull/169).
 
+### Does the damaged atlas determine its own repair?
+
+After either four-withdrawal history, ask for the fewest single chart–leaf changes that restore the existing square geometry. Only chart 0 can do it in four changes, and it must add back exactly its four missing leaves. The 24 possible orders all work. The two histories have identical pair measurements but require different named leaves. Their complete holdings distinguish them.
+
+The nearest-neighbor check alone admits 135,751 four-edit candidates per preparation. Requiring opposite pairs to agree leaves one. A separate six-edit route can start at chart 1 and still restore square geometry. The original consistency trigger stays silent throughout both source histories. In this atlas, withdrawals confined to any ten charts always leave an original minimum cover intact. We have a unique shortest repair under a stated criterion. What initiates that repair remains open.
+
+[Proof, gate replay and independent calculation](https://github.com/proteinfoldingengine/WetLabEngine/blob/1566736e090a6c37add423b020dda004ee24d26e/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/intrinsic_first_actor/RESULT.md) · [Research review](https://github.com/proteinfoldingengine/WetLabEngine/pull/170).
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
