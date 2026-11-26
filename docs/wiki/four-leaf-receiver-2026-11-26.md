@@ -94,6 +94,14 @@ In each row, the two orders have the same starting and ending holdings and the s
 
 To reproduce, check out WetLabEngine revision `e61d5b0e827f7b412824ad46021e2ad6cc6f7875` and pass its `ResearchHistory/UQCF-GEM/demos` directory to the replay script as its sole argument.
 
+### How much can C infer from neighboring charts?
+
+Define C's neighborhood here as C and every chart sharing a non-Pin leaf with C. Give the observer the names and full holdings of those charts. This is an explicit observational assumption. In the original preparation with zero or one prior withdrawal, all 19 legal C receipts agree with a simple test before C acts: C still holds leaves 2 and 4, and exactly one other chart holds leaf 2, with no other non-Pin leaf in that chart. The test is true twice, once for each legal C cut after A withdraws leaf 2.
+
+The inference breaks with two prior withdrawals, even when both histories start in the reviewed preparation and have the same length. First let A withdraw leaf 2 in both. Then let Y withdraw leaf 1 in one history and A withdraw leaf 3 in the other. In both histories C sees precisely Z with leaf 2, itself with 2 and 4, and B with 3 and 4. Its neighborhood agrees after each preceding withdrawal and still agrees after either fixed C cut. In the Y history, A still holds 1 and 3, and A with C covers all four leaves. In the other, A has only leaf 1, so three charts are already needed. The cover sizes across C's cut are respectively 2 → 3 and 3 → 3; only the first receipt is true.
+
+All four leaves also have coverage outside C in both histories. Under the previously analyzed bare move interface with outside charts held fixed, the legal C-only moves therefore agree. Receiving the distinguishing bit would require access beyond that interface. Whether an inherited operation grants it remains open. [Bare move interface](https://github.com/proteinfoldingengine/WetLabEngine/blob/7abbb1b8/ResearchHistory/UQCF-GEM/research/physical-bridge/receiver_move_interface/RESULT.md) · [Executable replay](../data/replays/four_leaf_overlap.py). This is an author replay on the fixed preparation.
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
