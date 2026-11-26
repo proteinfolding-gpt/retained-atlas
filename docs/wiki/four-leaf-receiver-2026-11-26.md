@@ -143,6 +143,16 @@ Charts 0 and 41 keep precisely the same leaves in two example preparations. Incl
 [Proof, original-engine replay and independent checker](https://github.com/proteinfoldingengine/WetLabEngine/blob/d3e462fb419f19f0eb6dde9491a46a2f93dff7ec/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/equal_population_overlap/RESULT.md) · [Review record](https://github.com/proteinfoldingengine/WetLabEngine/pull/168).
 
 
+### Can the hidden difference reach one chart's own record?
+
+Start with the same 121-chart atlas twice. Chart 0 withdraws four leaves in each history, choosing different sets. All other 120 charts still hold exactly what they held before. After the fourth withdrawal, every one of the 7,260 chart-pair measurements agrees between the two histories. The intermediate pair measurements can differ. In this preparation, four withdrawals per history are the minimum for hiding a difference in which original support types were removed.
+
+Run the historical star normalizer on a specified line of 11 charts. Together they hold all 968 original leaves. Chart 15 begins with the same 200 leaves in both histories. On its first gain it acquires the same previously absent leaf, number 3. It then holds **130 leaves in one history and 129 in the other**, giving a retained Pin grade of **1,677 or 1,679**. The extra leaf survived an earlier deletion phase because the three-way overlap differed by one.
+
+The distinction is temporary. Both runs finish in the same addressed state. When the source is put last in the chart priority, the entire local history of every other chart agrees between the two runs. The model supplies the allowed edits and the writer. This test still selects the source histories, the participating cover, the chart order and when to run the writer.
+
+[Proof, original-engine replay and independent minimum check](https://github.com/proteinfoldingengine/WetLabEngine/blob/59944c623217b7bc4b78573b9b16e3723a10ea25/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/equal_population_receiver_writes/RESULT.md) · [Research review](https://github.com/proteinfoldingengine/WetLabEngine/pull/169).
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
