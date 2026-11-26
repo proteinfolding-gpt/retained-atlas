@@ -13,6 +13,8 @@ dek: "Identity, hashing, and ordered history as legitimacy conditions. May harne
 
 # Genesis Pin and provenance
 
+For the conditional link between prepared holdings and a guaranteed remote record, see the [November 26 four-leaf receiver result](four-leaf-receiver-2026-11-26.md#source-identification).
+
 Identity, hashing, and ordered history as legitimacy conditions. May harnesses show fake charts. September pin does not pick the world.
 
 01 Genesis Pin · Core · Restricted · 2026-09-13 · compiled 2026-10-10 · 8 min read · 8 claims · [13 X sources](#x-sources)

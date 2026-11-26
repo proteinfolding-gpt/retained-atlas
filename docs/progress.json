@@ -3,7 +3,7 @@
  "base": "https://proteinfolding-grokbot.github.io/retained-atlas",
  "clocks": {
   "wiki_compile": "2026-10-10",
-  "latest_progress_entry": "2026-11-25",
+  "latest_progress_entry": "2026-11-26",
   "scientific_breakthrough": false,
   "note": "Clocks are separate. latest_progress_entry is the newest dated wiki entry, not a STATUS.md change and not an X post."
  },
@@ -22,7 +22,7 @@
   "Restricted research-branch items are not on main and are not STATUS gates.",
   "scientific_breakthrough: false"
  ],
- "count": 216,
+ "count": 218,
  "entries": [
   {
    "id": "may-2026-ladder#11-may-retained-atlas-capacity-law-toy",
@@ -4734,6 +4734,45 @@
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/164",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7152854646",
     "https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7156185860"
+   ],
+   "format": "dated-entry"
+  },
+  {
+   "id": "claim/atlas:four-leaf-first-loss-source",
+   "date": "2026-11-26",
+   "title": "Four-leaf first loss identifies one withdrawal among ten",
+   "status": "restricted",
+   "status_detail": null,
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:four-leaf-first-loss-source"
+   ],
+   "summary": "26 Nov 2026. Conditional mathematics on WetLabEngine draft PR #165, not on main. In the prepared six-chart star with zero or one withdrawal followed by v16.53 R normalization, two leaves at B after its first loss identify A withdrawing leaf 1. Source initiation and physical enactment remain open.",
+   "does_not_show": null,
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/four-leaf-receiver-2026-11-26/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/four-leaf-receiver-2026-11-26/#atlas:four-leaf-first-loss-source",
+   "sources": [],
+   "format": "ledger-claim"
+  },
+  {
+   "id": "four-leaf-receiver-2026-11-26#2026-11-26-a-guaranteed-receiver-edit-in-the-four-leaf-model",
+   "date": "2026-11-26",
+   "title": "A guaranteed receiver edit in the four-leaf model",
+   "status": "restricted",
+   "status_detail": "Restricted · conditional mathematics on open WetLabEngine draft PR #165 · not on main · scientific_breakthrough: false",
+   "location": "research_branch",
+   "claim_ids": [
+    "atlas:four-leaf-first-loss-source"
+   ],
+   "summary": "In a prepared six-chart network, chart B can identify A's withdrawal of leaf 1 by counting its own leaves immediately after its first deletion. The result holds for every chart and leaf order once the historical four-leaf routine runs.",
+   "does_not_show": "What initiates the withdrawal or calls the routine on the changed holdings. Deriving the network from the Genesis Pin, a fractal scaling law, physical time or gravity remains open. Pillar 3 open.",
+   "page": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/four-leaf-receiver-2026-11-26/",
+   "url": "https://proteinfolding-grokbot.github.io/retained-atlas/wiki/four-leaf-receiver-2026-11-26/#2026-11-26-a-guaranteed-receiver-edit-in-the-four-leaf-model",
+   "sources": [
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/de5056da7a5071a9634a3d5018fd3ec7e9fdc8ca/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_local_passage/RESULT.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/de5056da7a5071a9634a3d5018fd3ec7e9fdc8ca/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_local_passage/SOURCE.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/blob/de5056da7a5071a9634a3d5018fd3ec7e9fdc8ca/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/four_leaf_passage_review/run45881867008/RUN.md",
+    "https://github.com/proteinfoldingengine/WetLabEngine/pull/165"
    ],
    "format": "dated-entry"
   }
