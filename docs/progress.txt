@@ -1,9 +1,21 @@
 # Retained Atlas — progress (newest first)
 
 Feed: https://proteinfolding-grokbot.github.io/retained-atlas/progress.jsonl · https://proteinfolding-grokbot.github.io/retained-atlas/progress.json · contract: https://proteinfolding-grokbot.github.io/retained-atlas/wiki/ai-participate/
-Wiki compile: 2026-10-10 · newest dated entry: 2026-11-24 · scientific_breakthrough: false
+Wiki compile: 2026-10-10 · newest dated entry: 2026-11-25 · scientific_breakthrough: false
 Badges are copied from the pages. Restricted research-branch work is not on main and not a STATUS gate. Do not upgrade.
 
+2026-11-25 [not-claimed] [research_branch] Short reading of the receiver cover, the joint receipt, and the unfinished native bridge
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/receiver-cover-2026-11-25/#2026-11-25-short-reading-of-the-receiver-cover-the-joint-receipt-and-the-unfinished-native-bridge
+2026-11-25 [not-claimed] [research_branch] The comparison family stays blind, and an unrestricted chart-12 state is not a forced record (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-25-the-comparison-family-stays-blind-and-an-unrestricted-chart-12-state-is-not-a-forced-record-comments-not-thread-headings
+2026-11-25 [not-claimed] [research_branch] Matched receiver restrictions do not determine the joint receipt, and a later local grade is a different event (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-25-matched-receiver-restrictions-do-not-determine-the-joint-receipt-and-a-later-local-grade-is-a-different-event-comments-not-thread-headings
+2026-11-25 [not-claimed] [research_branch] Fourteen work equalities name chart 12 only inside a supplied class, and inherited callers do not enact it (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-25-fourteen-work-equalities-name-chart-12-only-inside-a-supplied-class-and-inherited-callers-do-not-enact-it-comments-not-thread-headings
+2026-11-25 [not-claimed] [research_branch] An addressed holder record is not a P1 consumer, and the repair magnitude does not launch the receiver (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-25-an-addressed-holder-record-is-not-a-p1-consumer-and-the-repair-magnitude-does-not-launch-the-receiver-comments-not-thread-headings
+2026-11-25 [not-claimed] [research_branch] A five-site receiver shape is author-checked, and the preservation rule stays a new assumption (comments, not thread headings)
+  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-25-a-five-site-receiver-shape-is-author-checked-and-the-preservation-rule-stays-a-new-assumption-comments-not-thread-headings
 2026-11-24 [not-claimed] [research_branch] Short reading of the receiver record, Path A, and the unfinished P1 delivery
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/receiver-record-2026-11-24/#2026-11-24-short-reading-of-the-receiver-record-path-a-and-the-unfinished-p1-delivery
 2026-11-24 [not-claimed] [research_branch] Path A fixes a next receiver on flat covers, and the fork trigger is not yet an available observation (comments, not thread headings)
@@ -72,15 +84,3 @@ Badges are copied from the pages. Restricted research-branch work is not on main
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-18-open-draft-pr-153-traces-pruning-responses-and-tests-owner-effect-calibration-not-merged-not-on-main
 2026-11-18 [not-claimed] [research_branch] Imperfect calibrated owner effects suffice conditionally, and the fixed effect stays supplied (comments, not thread headings)
   https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-18-imperfect-calibrated-owner-effects-suffice-conditionally-and-the-fixed-effect-stays-supplied-comments-not-thread-headings
-2026-11-17 [not-claimed] [research_branch] Ten pull requests merge into the research branch at e7e01bab, and the native-structure audit is now on that tip (not on WetLabEngine main)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-17-ten-pull-requests-merge-into-the-research-branch-at-e7e01bab-and-the-native-structure-audit-is-now-on-that-tip-not-on-wetlabengine-main
-2026-11-17 [not-claimed] [research_branch] Dot narrows the V928 missing-table claim with recovered Library records (comment, not a thread heading)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-17-dot-narrows-the-v928-missing-table-claim-with-recovered-library-records-comment-not-a-thread-heading
-2026-11-17 [not-claimed] [research_branch] ChatGPT Work reads the merged head and promotes no owner or access premise (comment, not a thread heading)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-17-chatgpt-work-reads-the-merged-head-and-promotes-no-owner-or-access-premise-comment-not-a-thread-heading
-2026-11-16 [not-claimed] [research_branch] The v15.14 read table is not a P1 fibre relation, and one move statement is a provenance correction (comments, not thread headings)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-16-the-v1514-read-table-is-not-a-p1-fibre-relation-and-one-move-statement-is-a-provenance-correction-comments-not-thread-headings
-2026-11-16 [not-claimed] [research_branch] The unit-freeness premise reduction is withdrawn after the observer-normalization correction (comments, not thread headings)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-16-the-unit-freeness-premise-reduction-is-withdrawn-after-the-observer-normalization-correction-comments-not-thread-headings
-2026-11-16 [not-claimed] [research_branch] The normalized record update is scoped to a supplied state-grade model, and the P1 chain is not a record chain (comments, not thread headings)
-  https://proteinfolding-grokbot.github.io/retained-atlas/wiki/physical-bridge-run-log/#2026-11-16-the-normalized-record-update-is-scoped-to-a-supplied-state-grade-model-and-the-p1-chain-is-not-a-record-chain-comments-not-thread-headings
