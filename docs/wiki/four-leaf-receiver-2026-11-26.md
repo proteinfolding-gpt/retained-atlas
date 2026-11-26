@@ -63,6 +63,22 @@ The minimum cover size is the fewest charts whose holdings together include ever
 
 An enumeration of all 15 legal one-withdrawal predecessors of that shared state gives 13 increases and two unchanged cover sizes. For the comparison state reached when A withdraws leaf 2, all 15 predecessors have cover size two. The withdrawal certificate records the before-state and the cut, so it can distinguish an increase. The updated holdings alone cannot. This leaves two different mechanisms to investigate: running the routine after every committed withdrawal, or running it only when the certificate records an increase. The historical routine reads all charts to compute the cover size. The later static code review found no event-driven call in the revision it examined. [Exact histories and census](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202215775) · [Author-checked call-site review](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202411519).
 
+### Which initial withdrawal can chart C's event certificate identify?
+
+In the same prepared network, the original v16.26 withdrawal routine already returns a Boolean field called `trigger`. For this flat tree it reports whether a legal withdrawal increased the minimum cover size. A later research note compared A withdrawing leaf 1 with A withdrawing leaf 2. A replay with the pinned original routine extended that comparison to **all ten legal initial withdrawals plus the no-withdrawal control**. For each of those eleven inputs, C withdrawing leaf 2 and C withdrawing leaf 4 were tried separately from the same input.
+
+| Initial event | C withdraws leaf 2 | C withdraws leaf 4 |
+| --- | --- | --- |
+| A withdraws leaf 2 | True | True |
+| No withdrawal, A withdraws 1 or 3, X or Y withdraws 1, Z withdraws 2, or B withdraws 3 | False | False |
+| C withdraws leaf 2 | Leaf already absent | False |
+| C withdraws leaf 4 | False | Leaf already absent |
+| B withdraws leaf 4 | False | Would remove the last copy |
+
+Of 22 attempts, 19 produced certificates. Both true certificates identify **A withdrawing leaf 2** in this preparation. The other 17 are false. After A withdraws leaf 2, A and C form the only two-chart cover. Either legal cut at C breaks it. For a fixed cut at C, its own leaves after that cut are identical across the A−1 and A−2 histories. The distinguishing bit is returned to the caller. Whether C receives or retains it, and what initiates C's withdrawal, remain open. This replay uses the original atom directly and requires no call to the four-leaf normalization routine.
+
+[Original two-history analysis](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202755211) · [Pinned withdrawal routine and its return fields](https://github.com/proteinfoldingengine/WetLabEngine/blob/e61d5b0e827f7b412824ad46021e2ad6cc6f7875/ResearchHistory/UQCF-GEM/demos/v16.26-consistency-increment-law/engine.py#L16-L26). The full eleven-input census above is an author replay, subsequent to the two archived reviews.
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
