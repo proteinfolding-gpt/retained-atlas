@@ -134,6 +134,15 @@ The preparation matters. The example allows some leaves to have 96 holders and o
 
 The mathematical result passed independent Gemini review. A subsequent original P1 replay checked every named exterior record in the two published endpoint comparisons. [Frozen proof and runnable code](https://github.com/proteinfoldingengine/WetLabEngine/blob/5aa73c574d4fcfbef0e1eef4b68b49e697328111/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/fixed_exterior_records/RESULT.md) · [Review and verification](https://github.com/proteinfoldingengine/WetLabEngine/blob/cb4cb6f4600cd80ef02f87c00312d09581f1f881/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/fixed_exterior_records_review/run45902188717/RUN.md).
 
+### What three charts reveal when every leaf has 25 holders
+
+Keep all 7,260 pair measurements, the same 200 leaves per chart by count, and the same 25 holders per leaf by count. Within the original 484 allowed footprints, exactly **25 ways to distribute the leaves among those footprints** fit the data when leaf names are ignored and chart addresses stay fixed. All 25 can also keep the complete named records of the same 11 charts. Fixing every named chart outside any of the ten tested squares instead leaves just the original footprint multiplicities.
+
+Charts 0 and 41 keep precisely the same leaves in two example preparations. Include chart 5. The three pairwise overlaps still contain 32, 48 and 48 leaves, but the number shared by all three changes from **16 to 12**. When the existing P1 operation combines the three records, its root grade changes from **961 to 969**. Projecting back to either fixed chart gives that chart its original record. Reading a second triple, with chart 1 in place of chart 5, distinguishes all 25 preparations together with the first reading. How a chart would initiate the comparison or retain its joint result remains open.
+
+[Proof, original-engine replay and independent checker](https://github.com/proteinfoldingengine/WetLabEngine/blob/d3e462fb419f19f0eb6dde9491a46a2f93dff7ec/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/equal_population_overlap/RESULT.md) · [Review record](https://github.com/proteinfoldingengine/WetLabEngine/pull/168).
+
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
