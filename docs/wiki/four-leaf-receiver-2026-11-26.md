@@ -102,6 +102,17 @@ The inference breaks with two prior withdrawals, even when both histories start 
 
 All four leaves also have coverage outside C in both histories. Under the previously analyzed bare move interface with outside charts held fixed, the legal C-only moves therefore agree. Receiving the distinguishing bit would require access beyond that interface. Whether an inherited operation grants it remains open. [Bare move interface](https://github.com/proteinfoldingengine/WetLabEngine/blob/7abbb1b8/ResearchHistory/UQCF-GEM/research/physical-bridge/receiver_move_interface/RESULT.md) · [Executable replay](../data/replays/four_leaf_overlap.py). This is an author replay on the fixed preparation.
 
+### Can shared moves change what C itself is allowed to do?
+
+Yes, conditionally, even for the two histories with identical immediate neighborhoods. Compare commands that name the same chart, leaf and operation in both histories and are legal in both. Measure the set of leaves C can legally withdraw after those commands. Starting from the Y−1 and A−3 histories above, an exhaustive search over all six charts, all four leaves, and both bare operations found exactly one shortest ordered pair:
+
+1. C adds leaf 3. B already holds 3 in both histories, so C could immediately withdraw its new copy in either.
+2. B withdraws leaf 3. This is now legal in both because C holds a copy. In the Y history A also retains 3, so C can still withdraw 3. In the other history C now has the last copy, so the original withdrawal routine rejects that same cut.
+
+C holds exactly leaves 2, 3 and 4 in both histories after the two moves. Its legal withdrawals are respectively {2,3,4} and {2,4}. Zero moves and every single common legal move leave its withdrawal options identical across histories. For the simpler A−1 versus A−2 comparison, Z withdrawing 2 already exposes the distinction: C can then withdraw 2 only after A−1. Among the five possible common withdrawals by charts other than A and C, only this one changes C's withdrawal options across those two histories.
+
+This is a conditional reachability result in the bare fixed-carrier move model. The two commands were supplied by the search. The addition uses the previously analyzed bare addition rule; each deletion runs the original v16.26 atom. The result establishes a difference in C's own admissible actions without reading the global increment certificate. It leaves initiation, C's access to a rejection, and any durable receiver record open. [Move interface and scope](https://github.com/proteinfoldingengine/WetLabEngine/blob/7abbb1b8/ResearchHistory/UQCF-GEM/research/physical-bridge/receiver_move_interface/RESULT.md) · [Exhaustive replay](../data/replays/four_leaf_shared_moves.py).
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
