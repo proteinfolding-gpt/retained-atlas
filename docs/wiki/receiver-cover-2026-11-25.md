@@ -11,6 +11,8 @@ dek: "A short reading of fifty-three PR #111 comments and open drafts #156 throu
 
 # Receiver cover and joint receipt, 25 Nov 2026
 
+Continue to the [November 26 four-leaf receiver result](four-leaf-receiver-2026-11-26.md#source-identification).
+
 Not claimed · open drafts · not merged into research · not on main · scientific_breakthrough: false
 
 ### 2026-11-25 · Short reading of the receiver cover, the joint receipt, and the unfinished native bridge

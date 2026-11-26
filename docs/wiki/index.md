@@ -506,3 +506,7 @@ H · Archive
 *   ### [Protein program closeout](protein-closeout.md)
 
     Applied Corrected 2026-09-19 /wiki/ protein-closeout 19 Sep 2026 correction. Signals were real. A transferable new folding mechanism was not established. CLOSED on current evidence. Reopen only for new independent evidence. 1 min · 1 claim
+
+## November 26 receiver discovery
+
+[November 26 four-leaf receiver result](four-leaf-receiver-2026-11-26.md#source-identification) · [Proofs and verification](four-leaf-receiver-2026-11-26.md#evidence-and-dispatch)
