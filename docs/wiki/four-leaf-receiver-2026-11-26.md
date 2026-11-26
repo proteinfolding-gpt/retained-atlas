@@ -79,6 +79,21 @@ Of 22 attempts, 19 produced certificates. Both true certificates identify **A wi
 
 [Original two-history analysis](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202755211) · [Pinned withdrawal routine and its return fields](https://github.com/proteinfoldingengine/WetLabEngine/blob/e61d5b0e827f7b412824ad46021e2ad6cc6f7875/ResearchHistory/UQCF-GEM/demos/v16.26-consistency-increment-law/engine.py#L16-L26). The full eleven-input census above is an author replay, subsequent to the two archived reviews.
 
+### What survives when the same two withdrawals exchange order?
+
+The v16.27 path enumerator keeps each withdrawal certificate. Its `event_map` records the change in cover size against the chart and leaf withdrawn. We replayed every unordered pair of distinct initial withdrawals on the same preparation using the original v16.26 and v16.27 engines. Of 45 pairs, 43 permit both orders. The other two would remove the last copy of a leaf. Exactly four legal pairs change which withdrawal receives the unit increment when their order is reversed.
+
+| Pair of withdrawals | Charts involved |
+| --- | --- |
+| A withdraws 2 and A withdraws 3 | A alone |
+| A withdraws 2 and C withdraws 2 | A and C |
+| A withdraws 2 and C withdraws 4 | A and C |
+| A withdraws 3 and B withdraws 4 | A and B |
+
+In each row, the two orders have the same starting and ending holdings and the same sequence of minimum cover sizes, 2 → 2 → 3. The second withdrawal receives the increment. In the two C rows, C has the same holdings before and after its own cut in both orders. Its attributed increment nevertheless changes. The historical code uses the addressed values to identify disagreements between paths and to summarize the enumeration. Those consumers operate on complete paths. Neither writes the value into C's retained state. This author replay extends the two C comparisons to all event pairs in this preparation. [Two-order source analysis](https://github.com/proteinfoldingengine/WetLabEngine/pull/111#issuecomment-7202938965) · [Historical consumers](https://github.com/proteinfoldingengine/WetLabEngine/blob/e61d5b0e827f7b412824ad46021e2ad6cc6f7875/ResearchHistory/UQCF-GEM/demos/v16.27-increment-attribution-closure/engine.py#L32-L49) · [Replay script](../data/replays/four_leaf_order_census.py).
+
+To reproduce, check out WetLabEngine revision `e61d5b0e827f7b412824ad46021e2ad6cc6f7875` and pass its `ResearchHistory/UQCF-GEM/demos` directory to the replay script as its sole argument.
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
