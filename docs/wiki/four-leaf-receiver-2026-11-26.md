@@ -160,6 +160,20 @@ The nearest-neighbor check alone admits 135,751 four-edit candidates per prepara
 
 [Proof, gate replay and independent calculation](https://github.com/proteinfoldingengine/WetLabEngine/blob/1566736e090a6c37add423b020dda004ee24d26e/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/intrinsic_first_actor/RESULT.md) · [Research review](https://github.com/proteinfoldingengine/WetLabEngine/pull/170).
 
+### Can the original trigger change which remote chart has to keep a leaf?
+
+On the full 121-chart atlas, a common preparation of 346 withdrawals leaves charts 0, 15 and 5 with their complete original records. Chart 0 then withdraws four leaves in either of two ways. Both histories raise the minimum cover from 11 charts to 12 on their third withdrawal. All 7,260 endpoint pair measurements agree. In one history chart 15 alone holds leaf 278. In the other chart 5 alone holds leaf 338.
+
+Chart 15 initially has the same 200 leaves in both histories. If it attempts to release 278, the first history blocks the last-copy loss. In the second it makes the edit and its retained root grade rises from 1,537 to 1,539. The original full-atlas writer also distinguishes the two charts at the end of its contraction for every chart and leaf ordering. Its later additions can erase the distinction. The shared preparation, source intervention and invocation of the writer are supplied.
+
+[Proof, three runnable checks and controls](https://github.com/proteinfoldingengine/WetLabEngine/blob/874ea4af9cbf5aea3e43a7263052c19d5e4c7739/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/full_atlas_trigger_receivers/RESULT.md) · [Research review](https://github.com/proteinfoldingengine/WetLabEngine/pull/171).
+
+### Where did the original event receipts go?
+
+A separate historical three-chart run saved four original v16.26 event receipts. The old v16.27 engine passed the actual returned objects into its witness, and the campaign redirected the engine's output to a log. A fresh run reproduced all 1,509 bytes. The campaign's subsequent comparison read four aggregate counts. The chart index identifies who acted. Delivery of the receipt into a chart's own retained record remains open.
+
+[Historical log, custody trace and replay](https://github.com/proteinfoldingengine/WetLabEngine/blob/f64e414a36671f37f745a2b4f42d5187d0637649/ResearchHistory/UQCF-GEM/research/physical-bridge/geometry_recovery_paths/receiver_event_order/receipt_provenance_log/RESULT.md).
+
 ## Related source reports {#related-source-reports}
 
 The earlier controls and constructions have different preparations and review statuses. Each link below opens its own report at the same pinned research revision.
